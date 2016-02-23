@@ -1,0 +1,818 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4100, 	"Português"
+4101, 	"Problema de leitura de dados de entrada do cartão magnético."
+4102, 	"Foi detectado Um erro com a porta série. Código de erro:"
+4103, 	"Receptor de moedas ENCRAVADO"
+4104, 	"Receptor de moedas CHEIO"
+4105, 	"Falha no Receptor de moedas"
+4106, 	"Ocorreu um problema…"
+4107, 	"Operação cancelada."
+4108, 	"Ocorreu um problema urante a recuperação do seu saldo ..."
+4109, 	"Inicializando Kiosk com  liberacao"
+4110, 	"Próxima manutenção diária:"
+4111, 	"Foi detectado Um erro com a porta série. Código de erro:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4112, 	"Página de arquivo:"
+4113, 	"Memória disponivel:"
+4114, 	"Registar"
+4115, 	"Nome de utilizador/password inválidos..."
+4116, 	"Acabou o seu tempo..."
+4117, 	"Este código de acesso está ou em uso ou trancado. Minutos restantes ..."
+4118, 	"Esta conta está fora de prazo."
+4119, 	"Faça um pagamento enquanto para recarregar a sua conta enquanto esta mensagem está sendo mostrada."
+4120, 	"O seu cartão nao pode ser lido - Por favor tente de novo"
+4121, 	"Este tipo de cartão não é aceitável..."
+4122, 	"Pagamento não necessário"
+4123, 	"Não é um cartão válido..."
+4124, 	"Cartão fora de prazo..."
+4125, 	"Minimo:"
+4126, 	"Continue"
+4127, 	"Desculpe, a compra não pode ser processada."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4128, 	"Executando a manutenção diária..."
+4129, 	"Download/execute diário completado com successo."
+4130, 	"Problema com o download/execute diário -"
+4131, 	"Registo diário de atualização completada com successo."
+4132, 	"Problema com a actualização do registo diário - "
+4133, 	"Próxima manutenção diária:"
+4134, 	"Código de acesso:"
+4135, 	"Limpar"
+4136, 	"Nome de utilizador:"
+4137, 	"Password:"
+4138, 	"Ligar"
+4139, 	"Menu"
+4140, 	"Desligar"
+4141, 	"Tab"
+4142, 	"Caps"
+4143, 	"Shift"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4144, 	"Enter"
+4145, 	"Esconder a tecla On-Screen"
+4146, 	"Mostrar a tecla On-Screen"
+4147, 	"Espaço"
+4148, 	"O seu código de acesso não foi encontrado no banco de dados..."
+4150, 	"Problema no acesso à base de dados..."
+4151, 	" Número de registo inválido."
+4152, 	"Este número de registo já está em uso."
+4153, 	"Deve comprar um upgrade antes de registar a versão instalada."
+4154, 	"***** Início de um novo ficheiro Log*****"
+4155, 	"Identificação do Kiosk"
+4156, 	"Começando a utilização de código de acesso "
+4157, 	"Para o código de acesso:"
+4158, 	"Começando o uso de código de acesso #:"
+4159, 	"Começando o uso gratuito"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4160, 	"Começando o uso com a base de dados inacessível."
+4161, 	"Comecando O uso"
+4162, 	"Pagamento #:"
+4163, 	"Terminando o uso #:"
+4164, 	"Pora código de acesso:"
+4165, 	"Minutos:"
+4166, 	"Páginas:"
+4167, 	"Terminando o uso gratuito"
+4168, 	" Terminando o uso com a base de dados inacessível"
+4169, 	"Quantia:"
+4170, 	"Terminando o uso"
+4171, 	"A transacção foi rejeitada..."
+4172, 	"Este Kiosk vai reinicializar-se dentro de"
+4173, 	"segundos..."
+4174, 	"Desculpe, esta função não é permitida por motivos de segurança..."
+4175, 	"número máximo de janelas excedeu."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4178, 	"conexão preliminar"
+4179, 	"a conexão secundaria"
+4180, 	"conectou"
+4181, 	"a conexão foi cancelada."
+4182, 	"a conexão nao pode ser restabelecida. Por favor tentar mais tarde."
+4183, 	"Marcar o seu código de acesso para um futuro uso:"
+4184, 	"última recarga (em horas):"
+4185, 	"cartões de crédito"
+4186, 	"pagamentos em dinheiro"
+4187, 	"Ultimos pagamentos desde o último ficheiro Log:"
+4189, 	"Ficheiro Log"
+4190, 	"Problema com o envio do ficheiro Log:"
+4191, 	"ERRO"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4192, 	"Problema com finalizar de sessão:"
+4193, 	"Desligando de"
+4194, 	"Desligando..."
+4195, 	"A aplicação começou:"
+4196, 	"Web browser"
+4197, 	"Video Email"
+4198, 	"Folha de Cálculo"
+4199, 	"Procesador de texto"
+4200, 	"Enviar Fotos"
+4201, 	"Messenger"
+4202, 	"Enviar Email"
+4203, 	"Receber Email"
+4204, 	"Problema em aceder ao processamneto do cartão de crédito."
+4205, 	"Visa"
+4206, 	"Marster Card"
+4207, 	"Amex"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4208, 	"Diners"
+4209, 	"Discover"
+4210, 	"Processando pagamento:"
+4211, 	"Tipo:"
+4212, 	"Endereço de E-mail:"
+4213, 	"Comprar"
+4214, 	"Obrigado."
+4215, 	"Recibo"
+4216, 	"Favor pegar o seu recibo..."
+4217, 	"Problema em aceder ao processamneto do cartão de crédito "
+4218, 	"Dinheiro"
+4219, 	"Já foi usado - O nome do cartão é:"
+4220, 	"A transacção foi cancelada."
+4221, 	"Ocorreu um problema  durante o processamento de pagamento."
+4222, 	"A sua conta não pode ser criada. Ainda pode usar o kiosk."
+4223, 	"A sua conta não pode ser actualizada."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4224, 	"Documento impresso com o seguinte número de cópias:"
+4225, 	"Janeiro"
+4226, 	"Fevereiro"
+4227, 	"Março"
+4228, 	"Abril"
+4229, 	"Maio"
+4230, 	"Junho"
+4231, 	"Julho"
+4232, 	"Agosto"
+4233, 	"Setembro"
+4234, 	"Outubro"
+4235, 	"Novembro"
+4236, 	"Dezembro"
+4237, 	"Domingo"
+4238, 	"Segunda"
+4239, 	"Terça"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4240, 	"Quarta"
+4241, 	"Quinta"
+4242, 	"Sexta"
+4243, 	"Sábado"
+4244, 	"Por Favor espere..."
+4245, 	"Criação de conta"
+4246, 	"Se desejar usar seu o seu saldo para uma futura utilização, especificar um nome de utilizador e uma password abaixo e depois clique no botão de continuar. Clique no botão de cancelar em caso contrário. "
+4247, 	"Nome de Ligação:"
+4248, 	"Re-entre a password:"
+4249, 	"Deve ter ao menos quatro (4) caracteres."
+4250, 	"Cancelar"
+4251, 	"Ligando..."
+4252, 	"Verificando a password..."
+4253, 	"Desligando"
+4254, 	"Selecção de ficheiro"
+4255, 	"Nome do ficheiro:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4256, 	"Insira uma disquete numa das drives desponíveis e clique no botão representante da drive.."
+4257, 	"Abrir"
+4258, 	"Gravar"
+4259, 	"Adicionar ficheiro"
+4260, 	"Ok"
+4261, 	"Sim"
+4262, 	"Não"
+4263, 	"Windows Messenger Precisa de ser instalado "
+4264, 	"Operação falhou"
+4265, 	"Deve selecionar primeiro alguem com quem deseje falar. "
+4266, 	"Ligar"
+4267, 	"Começar a conversa"
+4268, 	"Fechar"
+4269, 	"Desculpe, este computador não aceita o uso de drives."
+4270, 	"Enviando mensagem..."
+4271, 	"Não foi indicado servidor SMTP."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4272, 	"Certifique-se de que tem pelo menos um destino um endereço de resposta válidos..."
+4273, 	"Problema com o envio da mensagem..."
+4274, 	"A sua mensagem foi enviada."
+4275, 	"Nome:"
+4276, 	"Endereço para resposta:"
+4277, 	"Para:"
+4278, 	"CC:"
+4279, 	"Asunto:"
+4280, 	"Enviar"
+4281, 	"Deve selecionar pelo menos uma imagem."
+4282, 	"Selecionar todos "
+4283, 	"Limpar todos"
+4284, 	"Mandar fotos selecionadas"
+4285, 	"Parar"
+4287, 	"Informação necessária:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4288, 	"Primeiro Nome:"
+4289, 	"Ultimo Nome:"
+4290, 	"Rua:"
+4291, 	"CP:"
+4292, 	"por minuto"
+4293, 	"por página"
+4294, 	"Valor da compra:"
+4295, 	"Recibo de Email"
+4296, 	"Informação da conta"
+4297, 	"Anterior"
+4298, 	"Quantia recebida:"
+4299, 	"Comprar"
+4300, 	"Receber"
+4301, 	"Extra"
+4302, 	"Escreva a password  de SETUP para evitar o reboot.."
+4303, 	"Este computador irá reinicializar-se dentro de"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4306, 	"# de registo:"
+4307, 	"É necessário reinicializar o PC antes de se registar "
+4308, 	"Acceso gratuito com o Timer"
+4309, 	"Acceso gratuito sem o Timer"
+4310, 	"Minutos e páginas prepagos"
+4311, 	"Minutos prepagos (Impressão cobrada em minutos)"
+4312, 	"Quantia prepaga"
+4313, 	"Pagar por tempo/Impressão usada (Mostrar Min/Pag)"
+4314, 	"Pagar por tempo/Impresasã usada (Mostrar Min/Pag)"
+4315, 	"Cyber Cafe"
+4316, 	"Volume:"
+4317, 	"máximo:"
+4318, 	"defeito:"
+4319, 	"Impressora"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4320, 	"Disponíveis"
+4322, 	"Aplicar"
+4323, 	"Corrente:"
+4324, 	"precedente:"
+4325, 	"coletou por:"
+4326, 	"por:"
+4327, 	"aplicar"
+4328, 	"coletor de dinheiro"
+4329, 	"Pergunta"
+4330, 	"Reboot na modalidade segura"
+4331, 	"Reboot para desktop"
+4332, 	"Desligar"
+4333, 	"Ir para o Desktop"
+4334, 	"Voltar ao Kiosk"
+4335, 	"Nao registrado"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4336, 	"Carregando a configuração..."
+4337, 	"Este drive nao é válido para o utilizador"
+4338, 	"Directório invalido..."
+4339, 	"Ocorreu um problema ao gravar o seu documento:"
+4340, 	"Documento não está gravado.  Gravar agora?"
+4341, 	"Gravar como"
+4342, 	"Imprimir"
+4346, 	"Foto completa!"
+4347, 	"Audio indisponível"
+4351, 	"Enviar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4357, 	"sgundos - Pode ver de novo ou regravar o video"
+4358, 	"Coloque-se em frente da câmara"
+4359, 	"Clique em Gravar para registar o video"
+4360, 	"Clique em Enviar para enviar o video"
+4362, 	"Coloque-se em frente da câmara e tire uma foto"
+4365, 	"Escolha um cartão postal"
+4367, 	"Localização:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4368, 	"Go"
+4369, 	"Home"
+4370, 	"Anterior"
+4371, 	"Pra frente"
+4372, 	"Refrescar"
+4373, 	"Tamanho da fonte"
+4374, 	"Procurar"
+4375, 	"Janela nova"
+4376, 	"Clique aqui para retornar para o menu principal"
+4377, 	"Seu saldo é insuficiente para imprimir este documento completo"
+4378, 	"Desculpe, este site não é permitido."
+4379, 	"Este arquivo local não existe..."
+4380, 	"Desculpe, este drive não está disponível..."
+4381, 	"Já existe. Quer substituí-lo?"
+4382, 	"Quer realmente sair?"
+4383, 	"Falta inserir o código de acesso"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4384, 	"Não foi encontrada câmara de video"
+4385, 	"Preço por minuto: "
+4386, 	"Preço por página: "
+4387, 	"Pagamento mínimo com cartão "
+4388, 	"Pagamento mínimo em dinheiro: "
+4389, 	"Tem a certeza que pretende fazer o reboot em modo segurança?"
+4390, 	"Tem a certeza que pretende desactivar o registo?"
+4391, 	"O seu computador vai ser desligado. Continuar?"
+4392, 	"O seu computador irá fazer reboot. Continuar?"
+4393, 	"E-mail muito longo para o tempo que lhe resta nesta sessão. Aumente o pagamento ou reduza os anexos"
+4394, 	"Cima:"
+4395, 	"Esquerda:"
+4396, 	"Largura:"
+4397, 	"Altura:"
+4398, 	"Copiar"
+4399, 	"Colar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4400, 	"Cortar"
+4401, 	"Sem alterações"
+4402, 	"Reduzir ao mínimo"
+4403, 	"Alargar ao máximo"
+4404, 	"Alinhamento à esquerda"
+4405, 	"Centrar"
+4406, 	"Alinhamento à direita"
+4407, 	"Ajustamento automático"
+4408, 	"Alinhamento superior"
+4409, 	"Alinhamento inferior"
+4410, 	"Obrigado"
+4411, 	"Ficheiros garvados aqui serão apagado sno final de cada sessão quando desligar"
+4412, 	"Restaurar Pontos"
+4413, 	"Restaurar"
+4414, 	"Isto irá substituir a sua configuração actual. Continuar?"
+4415, 	"Isto irá substituir o ponto de restauro seleccionado. Continuar?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4416, 	"Isto realizará mudanças na base de dados - Deseja Continuar?"
+4417, 	"Ja está em Uso - Seu Nome do Usuario é"
+4418, 	"Ver grupo de 12 fotos - é necessário um email para cada grupo. Clique numa foto para seleccionar ou desseleccionar"
+4419, 	"Todas as fotos seleccionadas serão comprimidas para um ficheiro de 640x480 pixels, 32K, formato JPEG"
+4423, 	"Saltar criação de conta"
+4424, 	"Esta mensagem ainda não foi enviada e será apagada, Continuar?"
+4425, 	"Aparece Offline"
+4426, 	"Enviar cartões postais"
+4427, 	"Foi criado ponto de Restore."
+4428, 	"Foi aplicada nova configuração"
+4429, 	"O seguinte número de registro # está disponível:"
+4430, 	"Páginas impressas:"
+4431, 	"Tempo serão deduzidos do seu crédito por cada página impressa?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+4433, 	"Soletração"
+4434, 	"páginas não foram imprimidas. Faça um pagamento por favor"
+4435, 	"Código de segurança"
+4436, 	"Imprimir não é permitido deste local"
+4437, 	"Selecione por favor uma opção:"
+4438, 	"Preço por a cópia:"
+4439, 	"Preço por o fax:"
+4440, 	"Cópia"
+4441, 	"Fax"
+4442, 	"Cópias selecionadas para a impressora:"
+4443, 	"Faxes selecionados para a impressora:"
+4444, 	"Emitir o email do cliente do correio deste kiosk nao e permitida."
+4445, 	"Faça por favor seu copies/fax agora. Estale sobre a APROVAÇÃO quando feito."
+4446, 	"Chame por favor o serviço de cliente para ativar sua licença de Copy/Fax"
+4447, 	"Conectar ao cartao presta servicos de manutencao..."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4448, 	"Conectar ao cartao presta servicos de manutencao..."
+4449, 	"Transação Aprovada"
+4450, 	"RELATORIO DA COLECAO DO DINHEIRO"
+4451, 	"Kiosk ID:"
+4452, 	"Nome Da Estação:"
+4453, 	"Data:"
+4454, 	"Tempo:"
+4455, 	"Nome Do Técnico:"
+4456, 	"Uma quantidade de dinheiro relatada base de dados:"
+4457, 	"Uma Quantidade Do Técnico Relatado Coletada:"
+4458, 	"Relatório Da Coleção Do Dinheiro De Emailing Do Erro"
+4459, 	"Certifique-se por favor que a unidade multifunction powered sobre, na modalidade lida e tem o papel e fontes sufficent."
+4460, 	"Download Da Lima"
+4461, 	"Lima:"
+4462, 	"Progresso:"
+4463, 	"Voce quer abrir ou conservar esta lima?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4464, 	"As mudancas feitas aos ajustes deste kiosk requerem NetStop ser reiniciadas. Se um reinicio nao for executado, o kiosk pode funcionar anormalmente. Reinicie o kiosk agora?"
+4465, 	"Somente uma copia por o trabalho de copia e permitida. Se voce desejar imprimir copias adicionais, pressione a tecla de copia outra vez."
+4466, 	"Você está tentando abrir uma lima do pdf de um Web site seguro. Seja recomendado por favor que esta lima não pode ser indicada corretamente."
+4467, 	"Impressora não encontrada. Contate seu administrador."
+4468, 	"hi-Zone Wi-Fi "
+4469, 	"MSN Messenger tenta actualmente terminar uma sessao precedente. Satisfazer espera 30 segundo e ensaio ainda."
+4470, 	"Não podia recuperar a informação do pacote."
+4471, 	"Especifique por favor um email address válido."
+4472, 	"Selecione Seu Pacote Desejado Do Acesso"
+4473, 	"Em seguida"
+4474, 	"PAGAR COM DINHEIRO E CARTÃO: DESCONTE PRIMEIRAMENTE"
+4475, 	"Para O Acesso de WIFI, Preencha A Informação Abaixo"
+4476, 	"Nome Cheio"
+4477, 	"Email"
+4478, 	"Pergunta Secreta"
+4479, 	"Resposta"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4480, 	"Suas pergunta e resposta secretas são usadas no evento que você se esquece de sua username ou senha."
+4481, 	"Pagamento"
+4482, 	"Introduza Por favor O Dinheiro E/ou Swipe Seu Cartão De Crédito Agora"
+4483, 	"Total"
+4484, 	"Cartão"
+4485, 	"Remanesça"
+4486, 	"Preencha por favor todo o campo requerido e assegure-se de que seus username e senha sejam carateres do 8 longos."
+4487, 	"Esse username é já dentro uso. Selecione por favor diferente."
+4488, 	"Erro do acesso de base de dados. Por favor tentativa outra vez."
+4489, 	"Sua compra era bem sucedida. Você pode agora logon com seus username e senha."
+4490, 	"Emita um recibo da compra a meu endereço do E-mail"
+4491, 	"Informação Do Cartão De Crédito"
+4492, 	"É você certo você quer cancelar? Nenhuns pagamentos que de dinheiro você fizer não serão recoverable."
+4493, 	"NOTA: Impostos aplicáveis não incluídos."
+4494, 	"Este pacote não está disponível neste tempo. Selecione por favor outros."
+4495, 	"Você deve selecionar um pacote de acima a fim proseguir."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4496, 	"informacao da compra do hi-Zone Wi-Fi "
+4497, 	"Thankyou para o hi-Zone Wi-Fi escolhendo! Sua informação da compra é incluida para seus registros como pedido."
+4498, 	"Transação #:"
+4499, 	"Um problema foi encontrado criar seu cliente. Chame por favor a sustentação de cliente para terminar sua compra."
+4500, 	"Seu username é inválido. Deve consistir em letras e em números somente, e seja um mínimo de oito caráteres no comprimento."
+4501, 	"Este kiosk não aceita pagamentos de dinheiro"
+4502, 	"Este kiosk não aceita pagamentos do cartão"
+4503, 	"Pacote unavailable. Este kiosk não é configurarado para aceitar o dinheiro ou os pagamentos de cartão de crédito."
+4504, 	"Dê entrada com seus primeiros e últimos nomes cheios"
+4505, 	"Incorpore seu email address"
+4506, 	"Incorpore seu username desejado. Deve ser caráteres do atleast oito por muito tempo"
+4507, 	"Incorpore sua senha desejada. Deve ser caráteres do atleast oito por muito tempo"
+4508, 	"Incorpore sua pergunta secreta aqui"
+4509, 	"Incorpore a resposta a sua pergunta secreta aqui"
+4510, 	"Você deve assinar fora da sessão atual do uso antes que esta aplicação possa ser usada"
+4511, 	"Suas denominações do dinheiro são"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4512, 	"A transação não lhe foi encontrada conseqüentemente não pode existir ou pode ter sido processada já. Verifique as transações históricas para ver se o fax for terminado. Se o fax não estiver nos registros históricos, então a transação ID não existe."
+4513, 	"O original feito a varredura nao podia ser encontrado. Faca a varredura por favor de seus originais outra vez."
+4514, 	"O original feito a varredura não podia ser encontrado. Estale por favor sobre a tecla da LIMA da VARREDURA para fazer a varredura outra vez de seus originais."
+4515, 	"Número de fax inválido."
+4516, 	"O número que de fax você incorporou não é um formato válido. Re-enter por favor seu número de fax no seguinte formato: 16132484867."
+4517, 	"Incorpore por favor os índices de sua página de tampa."
+4518, 	"Pesaroso!!! Seu pedido não podia ser processado. O anfitrião é ocupado, tenta por favor seu fax outra vez. VOCÊ NÃO FOI CARREGADO PARA ESTA TRANSAÇÃO."
+4519, 	"O anfitrião é ocupado, espera por favor quando nós recolhermos a informação sobre seu fax"
+4520, 	"Espere por favor quando nós conectarmos ao anfitrião."
+4521, 	"Sua transação do fax foi cancelada como por seu pedido."
+4522, 	"A transação não lhe foi encontrada conseqüentemente não pode existir ou pode ter sido processada já. Verifique as transações históricas para ver se o fax for terminado. Se o fax não estiver nos registros históricos, então a transação ID não existe."
+4523, 	"Pesaroso!!! Seu cartão não podia ser processado. Você fax a transação foi cancelado."
+4524, 	"Traitée do est do solvabilité de votre carte de degré de do que dos tandis do svp de Attendez."
+4525, 	"Você pode comprar mais tempo e emitir seu fax outra vez."
+4526, 	"Seu tenha o crédito a emitir somente"
+4527, 	"as páginas, mas seu original do fax contêm"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4528, 	"páginas. Sua transação do fax foi cancelada."
+4529, 	"Preparar-se para emitir seu fax...."
+4530, 	"O fax contem"
+4531, 	"page(s)."
+4532, 	"será carregado a seu cartão. Prosiga com faxing e faturar o cartão de crédito?"
+4533, 	"Recolhendo a informação sobre seu fax"
+4534, 	"Processando seu original do fax"
+4535, 	"Seu fax foi submetido ao ANFITRIÃO. Se você nos fornecer com um endereço válido do E-mail você receberá um E-mail que confirma o recibo de seu original do fax assim que o original faxed."
+4536, 	"Espere por favor quando nós emitirmos seu fax."
+4537, 	"Sua transmissão do fax a"
+4538, 	"foi terminado com sucesso."
+4539, 	"é em andamento."
+4540, 	"Conectar......"
+4541, 	"Espere por favor quando nós lermos seu original do fax. Dependendo do número das páginas que você faxing o pode fazer exame de poucos minutos."
+4542, 	"Espere por favor quando nós contarmos as páginas em seu original do fax."
+4543, 	"Incapaz de contar as páginas em seu original do fax. Tente por favor seu fax outra vez."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4544, 	"Pesaroso para a inconveniência. O ANFITRIÃO é OCUPADO. Tente por favor seu fax outra vez."
+4545, 	"Lite"
+4546, 	"Empresa"
+4547, 	"Profissional"
+4548, 	"Nao registrado"
+4549, 	"Espere por favor quando seu pedido for processado."
+4550, 	"Erro!!! Incapaz de encontrar a lima."
+4551, 	"adicional"
+4552, 	"carga"
+4553, 	"SEU STATUS DO FAX:"
+4554, 	"Seu fax a"
+4555, 	"era"
+4556, 	"terminado com sucesso"
+4557, 	"Suas opções da cópia e do fax são desligadas pelo administrador."
+4558, 	"Uma quantidade de dinheiro relatada kiosk:"
+4559, 	"Nome Do Passageiro Nao encontrado"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4560, 	"Voce deve primeiramente assinar fora de sua sessao para obter sua informacao wireless do acesso\n"
+4561, 	"Swipe por favor seu cartão do passageiro a fim começar sua informação wireless do cliente.\n"
+4562, 	"Informação Wireless Do Cliente:"
+4563, 	"Nome Do Usuário:"
+4564, 	"Senha:"
+4565, 	"Escreva por favor para baixo seus nome e senha do usuário."
+4566, 	"Numero De Cartao"
+4567, 	"Exp. Data"
+4568, 	"Select"
+4569, 	"Acesso livre com relatório (limite de tempo)"
+4570, 	"Acesso livre com relatório (Tempo ilimitado)"
+4571, 	"Término de uma sessão Windows"
+4572, 	"Você Deve Ser registrado Sobre Como Um Administrador"
+4573, 	"Modalidade Inválida Do Pagamento"
+4574, 	"Máquina Do Copy"
+4575, 	"Selecione por favor B/W ou cor e o número das páginas que você deseja comprar. Pressione então a compra."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4576, 	"Compre este número das páginas:"
+4577, 	"Preço por a página de B/W:"
+4578, 	"Preço por a página da cor:"
+4579, 	"Compra Total:"
+4580, 	"Revestimento"
+4581, 	"Fonte De papel"
+4582, 	"Alimentatore Di Documento"
+4583, 	"Vidro"
+4584, 	"Fixe O Admin"
+4585, 	"Fixe Limitado"
+4586, 	"ShellPro deve funcionar de uma movimentação local."
+4587, 	"Preço Por O Copy de B/W"
+4588, 	"Preço Por O Copy Da Cor"
+4589, 	"Preço Por O Fax"
+4590, 	"Contrapeso da página demasiado baixo.  Faça um pagamento por favor."
+4591, 	"Esta ação exigirá o controle do cliente de usuário ser deficiente. Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4592, 	"Cópia \n"
+4593, 	"Impressora \n"
+4594, 	"Nome \n"
+4595, 	"Onde \n"
+4596, 	"Excitador \n"
+4597, 	"Versão \n"
+4598, 	"Comentário \n"
+4599, 	"Escala de cópia \n"
+4600, 	"Todos \n"
+4601, 	"Páginas \n"
+4602, 	"De\n"
+4603, 	"To"
+4604, 	"Cópias \n"
+4605, 	"Número de cópias \n"
+4606, 	"Ordene \n"
+4607, 	"Papel \n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4608, 	"Tamanho \n"
+4609, 	"Fonte \n"
+4610, 	"Orientação \n"
+4611, 	"retrato \n"
+4612, 	"Paisagem \n"
+4613, 	"Cancelamento\n"
+4614, 	"Pre-Autorizado"
+4615, 	"Feche todas as janelas de navegador?"
+4616, 	"***** O QUIOSQUE REINICIOU *****\n"
+4617, 	"*** Livres ***"
+4618, 	"O mínimo comprou"
+4619, 	"Coloc por favor os originais DE FACE PARA CIMA no alimentador automático situado na parte superior ou no varredor, a seguir incorpore o número de páginas originais e cópias de cada um que você deseja comprar. Pressione a compra quando pronto."
+4620, 	"Número de originais:"
+4621, 	"Número de cópias:"
+4622, 	"Gerente da lima"
+4623, 	"As limas conservadas aqui forem suprimidas após cada sessão quando você sinal-para fora. Arrasto da tecla de rato esquerdo - e - deixe cair PARA MOVER limas. Controle o arrasto da tecla de rato esquerdo - e - deixam cair PARA COPIAR limas."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4624, 	"Este tipo de lima não é suportado.\n"
+4625, 	"Nenhuma lima é selecionada.\n"
+4626, 	"A aplicação associada exigida não é instalada."
+4627, 	"Esta versão não pode abrir limas de XLSX."
+4628, 	"Esta versão não pode abrir limas de DOCX."
+4629, 	"Serviços do escritório"
+4630, 	"Faça cópias \n"
+4631, 	"Faça a varredura para o email\n"
+4632, 	"Varredura ao fax \n"
+4633, 	"Varredura ao USB \n"
+4634, 	"Cópia do USB \n"
+4635, 	"Comece sobre\n"
+4636, 	"3. COMEÇO \n"
+4637, 	"4. COMPRA \n"
+4638, 	"Avançado…\n"
+4639, 	"1. SELECIONE O SERVIÇO\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4640, 	"2. AJUSTES \n\n"
+4641, 	"FIXAÇÃO DO PREÇO:\n\n"
+4642, 	"4. AUTORIZE A COMPRA \n\n"
+4643, 	"Thumbnails:\n"
+4644, 	"Págiana inteira:\n"
+4645, 	"Processamento - espere por favor \n"
+4646, 	"Cópias"
+4647, 	"EMail"
+4648, 	"Fax"
+4649, 	"USB"
+4650, 	"Cópia"
+4651, 	"Impressão:"
+4652, 	"Copi:"
+4653, 	"Exploração:"
+4654, 	"Fax:"
+4655, 	"Tamanho de página:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4656, 	"# Cópias:"
+4657, 	"Email address:\n"
+4658, 	"Fax #:"
+4659, 	"Movimentação \\ nome de arquivo do USB\n"
+4660, 	"# Originais:"
+4661, 	"Preço por a página:"
+4662, 	"Compra Total:"
+4663, 	"A revisão então autoriza a compra, começa-a outra vez ou perto"
+4665, 	"Definição:"
+4666, 	"Se você é satisfeito após ter revisto as imagens feitas a varredura, estale a tecla da compra da autorização para terminar o serviço.\n"
+4667, 	"Estale a tecla da sessão da restauração para rejeitar estas imagens e para começá-las outra vez."
+4668, 	"Estale a tecla próxima para fechar a aplicação de serviços do escritório."
+4669, 	"Isto cancelará todos os ajustes. Continue?"
+4670, 	"Coloc seu original DE FACE PARA CIMA no alimentador de original do varredor. Continue?"
+4671, 	"Isto TERMINARÁ o serviço e incorrerá a quantidade total da compra. Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4672, 	"Preste serviços de manutenção a COMPLETO!\n"
+4673, 	"Relatório do fax do email a mim \n"
+4674, 	"Endereço:"
+4675, 	"Incapaz de processar as páginas feitas a varredura para seu fax. Comece por favor outra vez e torne a varrer o original."
+4676, 	"Um erro ocorreu ao processar seu fax. Experimente de novo por favor."
+4677, 	"4. AUTORIZE a COMPRA - faça cópias "
+4678, 	"4. AUTORIZE A COMPRA - varredura ao email"
+4679, 	"4. AUTORIZE A COMPRA - FAX "
+4680, 	"4. AUTORIZE A COMPRA - varredura ao USB "
+4681, 	"Formato"
+4682, 	"Especificação de lima inválida."
+4683, 	"Um erro ocorreu ao copiar esta lima. Experimente de novo por favor."
+4684, 	"Processar está a ponto de começar. Continue?"
+4685, 	"A exploração foi cancelada pelo usuário. Restauração do clique a começar outra vez."
+4686, 	"4. AUTORIZE a COMPRA - cópia do USB"
+4687, 	"Um erro ocorreu quando impressão esta lima. Experimente de novo por favor."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4688, 	"Seu contrapeso é insuficiente para terminar esta compra."
+4689, 	"Aceite:"
+4690, 	"As páginas pediram:"
+4691, 	"Custo:"
+4692, 	"Imprimir:"
+4693, 	"Quarto #:"
+4694, 	"Navegador próximo?"
+4695,   "Dê entrada ao código do acesso para aumentar o cancelamento disponível do contrapeso ou do clique à saída"
+4696, 	"Proprietário ID/Combinação de validação não válida..."
+4697, 	"Este código de acesso não foi encontrado."
+4698,   "não tem nenhum contrapeso disponível."
+4699,   "Este código de acesso é atualmente dentro uso!"
+4700,   "Gire 90°"
+4701,   "Foto Viewer" 
+4702,   "Inspeção prévia" 
+4703,   "Erro que indica a inspeção prévia de cópia"
+4704, 	"Contrapeso da página demasiado baixo."
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+4705,   "A senha é inválida."
+4706,   "Incorpore a senha."
+4707, 	"páginas não foram imprimidas."
+4708,   "Há um ou mais trabalhos de impressão na fila. Parando agora pode excluí-los."
+4709,   "Popup do Browser de Web"
+4710,   "Este aplicativo requer acesso de nível Premium."
+4711,   "Impressão livre não é permitido em "
+4712,   "Tente novamente e selecione"
+4713,    "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}

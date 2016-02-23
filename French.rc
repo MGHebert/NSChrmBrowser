@@ -1,0 +1,822 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1100, 	"Français"
+1101, 	"Problème durant le transfère d'information entre le lecteur de carte magnétique et l'ordinateur."
+1102, 	"Problème avec le port série. Erreur #:"
+1103, 	"Accepteur d'argent comptant bloqué"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1104, 	"Accepteur d'argent comptant - PLEIN"
+1105, 	"Accepteur d'argent comptant - problème"
+1106, 	"Un problème s'est produit..."
+1107, 	"Opération annulée."
+1108, 	"Un problème s'est produit lors de la lecture de votre balance..."
+1109, 	"Configuration du PC - Version"
+1110, 	"Prochaine maintenance quotidienne:"
+1111, 	"Problème avec le port série. Erreur #:"
+1112, 	"Page File:"
+1113, 	"Mémoire Disponible:"
+1114, 	"Enregistrer"
+1115, 	"Nom/Mot de Passe Invalides..."
+1116, 	"Votre temps est écoulé..."
+1117, 	"Ce code d'accès est soit en usage à un autre kiosque ou bien temporairement barré. Minutes avant d'être débarré:"
+1118, 	"Ce compte est expiré."
+1119, 	"Effectuez un paiement pendant que ce message est affiché afin d'ajouter à votre compte."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1120, 	"Votre carte n'a pu être lue - veuillez repasser votre carte SVP..."
+1121, 	"Ce type de carte n'est pas accepté..."
+1122, 	"Paiement Non Requis"
+1123, 	"Votre carte ne semble pas être valide..."
+1124, 	"Votre carte est expirée..."
+1125, 	"Minimum"
+1126, 	"Continuer"
+1127, 	"L'achat n'a pu être complété."
+1128, 	"Téléchargement de votre message en cours..."
+1129, 	"Téléchargement et exécution d'un fichier complété avec succès."
+1130, 	"Problème durant téléchargement et exécution d'un fichier - "
+1131, 	"Mise à jour du régistre de Windows complété avec succès."
+1132, 	"Problème lors de la mise à jour du régistre de Windows."
+1133, 	"Prochaine maintenance quotidienne:"
+1134, 	"Code d'accès:"
+1135, 	"Effacer"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1136, 	"Nom d'utilisateur:"
+1137, 	"Mot de Passe:"
+1138, 	"Connecter"
+1139, 	"Menu"
+1140, 	"Quitter"
+1141, 	"Tab"
+1142, 	"Caps"
+1143, 	"Shift"
+1144, 	"Enter"
+1145, 	"Cacher Clavier Virtuel"
+1146, 	"Afficher Clavier Virtuel"
+1147, 	"Espace"
+1148, 	"Ce code d'accès n'est pas valide..."
+1150, 	"Problème accédant la base de données..."
+1151, 	"Numéro d'enregistrement invalide."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1152, 	"Ce numéro d'enregistrement est déjà utilisé."
+1153, 	"Vous devez acheter une mise-à-jour avant de pouvoir enregistrer la version installée."
+1154, 	"***** Début d'un nouveau régistre *****"
+1155, 	"Id du Kiosque"
+1156, 	"Début d'un usage avec code d'accès"
+1157, 	"pour code d'accès:"
+1158, 	"Début d'utilisation #:"
+1159, 	"Début d'un usage gratuit"
+1160, 	"Début d'un usage sans connection avec la banque de données"
+1161, 	"Début d'utilisation"
+1162, 	"Paiement #:"
+1163, 	"Fin d'utilisation #:"
+1164, 	"pour code d'accès:"
+1165, 	"Minutes:"
+1166, 	"Pages:"
+1167, 	"Fin d'un usage gratuit"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1168, 	"Fin d'un usage sans connection avec la banque de données"
+1169, 	"Montant:"
+1170, 	"Fin d'utilisation"
+1171, 	"La transaction a été refusée..."
+1172, 	"Ce kiosque va être relancé dans"
+1173, 	"secondes..."
+1174, 	"Désolé, cette fonction n'est pas disponible pour des raisons de sécurité..."
+1175, 	"Nombre maximum de fenêtres ouvertes."
+1178, 	"Connexion Principale"
+1179, 	"Connexion Secondaire"
+1180, 	"Connecté avec"
+1181, 	"Connexion annulée."
+1182, 	"La connexion n'a pu être rétablie. S.V.P. ré-essayez plus tard."
+1183, 	"Prenez note de votre Code d'Accès pour utilisation future:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1184, 	"Dernier relancement du système (heures):"
+1185, 	"Cartes de Crédit"
+1186, 	"Paiement en Espèces"
+1187, 	"Somme des paiements depuis le dernier régistre:"
+1189, 	"Régistre"
+1190, 	"Problème lors de l'envoi du régistre:"
+1191, 	"ERREUR"
+1192, 	"Problème durant la terminaison de l'utilisation:"
+1193, 	"Déconnexion de"
+1194, 	"Déconnexion en cours..."
+1195, 	"Application lancée:"
+1196, 	"Explorateur Web"
+1197, 	"Vidéo Courriel"
+1198, 	"Tableaux Numériques"
+1199, 	"Traitement de Texte"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1200, 	"Envoie de Photos"
+1201, 	"Messenger"
+1202, 	"Envoyer Courriel"
+1203, 	"Recevoir Courriels"
+1204, 	"Problème durant l'accès au serveur pour paiement par carte de crédit."
+1205, 	"Visa"
+1206, 	"MC"
+1207, 	"Amex"
+1208, 	"Diners"
+1209, 	"Discover"
+1210, 	"Traitement du paiement en cours:"
+1211, 	"Type:"
+1212, 	"Adresse Courriel:"
+1213, 	"Achat"
+1214, 	"Merci."
+1215, 	"Reçu"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1216, 	"S.V.P. prenez votre reçu..."
+1217, 	"Problème lors du paiement par carte de crédit"
+1218, 	"Argent Comptant"
+1219, 	"est déjà utilisé - votre Nom d'utilisateur est"
+1220, 	"La transaction est annulée."
+1221, 	"Problème lors du paiement"
+1222, 	"Votre compte n'a pas pu être créer. Vous pouvez cependant utiliser le kiosque."
+1223, 	"Votre compte n'a pas pu être mis à jour."
+1224, 	"Document imprimé avec le nombre suivant de pages:"
+1225, 	"Jan"
+1226, 	"Fév"
+1227, 	"Mar"
+1228, 	"Avr"
+1229, 	"Mai"
+1230, 	"Jui"
+1231, 	"Jul"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1232, 	"Aoû"
+1233, 	"Sep"
+1234, 	"Oct"
+1235, 	"Nov"
+1236, 	"Déc"
+1237, 	"Dim"
+1238, 	"Lun"
+1239, 	"Mar"
+1240, 	"Mer"
+1241, 	"Jeu"
+1242, 	"Ven"
+1243, 	"Sam"
+1244, 	"S.V.P. Attendez..."
+1245, 	"Création d'un Compte"
+1246, 	"Si vous désirez utiliser votre balance dans le future, spécifiez un nom d'utilisateur et un mot de passe, puis cliquez sur le bouton Continue. Autrement cliquez sur le bouton Annuler."
+1247, 	"Nom d'utilisateur:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1248, 	"Confirmer Mot de Passe:"
+1249, 	"Doit comporter au minimum quatre (4) caractères"
+1250, 	"Annuler"
+1251, 	"Connexion en cours..."
+1252, 	"Vérification du mot de passe..."
+1253, 	"Déconnecté"
+1254, 	"Choix d'un fichier"
+1255, 	"Nom du Fichier:"
+1256, 	"Insérez un disque dans l'un des lecteurs displonible et cliquez sur le bouton correspondant à ce lecteur."
+1257, 	"Ouvrir"
+1258, 	"Enregistrer"
+1259, 	"Joindre Fichier"
+1260, 	"Ok"
+1261, 	"Oui"
+1262, 	"Non"
+1263, 	"MSN Messenger doit être installé"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1264, 	"L'opération a échoué."
+1265, 	"Vous devez d'abord choisir quelqu'un avec qui vous souhaitez causer"
+1266, 	"Connecté"
+1267, 	"Commencer Chat"
+1268, 	"Fermer"
+1269, 	"Désolé, ce kiosque ne permet pas l'utilisation de disques."
+1270, 	"Envoi de votre message en cours..."
+1271, 	"Serveur SMTP non spécifié."
+1272, 	"Assurez-vous d'avoir au moins un destinataire et une adresse de retour valide..."
+1273, 	"Problème lors de l'envoi de votre message..."
+1274, 	"Votre message a été envoyé."
+1275, 	"Votre Nom:"
+1276, 	"Adresse de Retour:"
+1277, 	"À:"
+1278, 	"CC:"
+1279, 	"Objet:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1280, 	"Envoyer"
+1281, 	"Vous devez choisir au moins une image."
+1282, 	"Choisissez Tous"
+1283, 	"Déchoisissez Tous"
+1284, 	"Envoyez Les Images Choisies"
+1285, 	"Arrêter"
+1287, 	"Information Requise"
+1288, 	"Premier Nom"
+1289, 	"Dernier Nom"
+1290, 	"# Rue"
+1291, 	"Code Zip"
+1292, 	"par minute"
+1293, 	"par page"
+1294, 	"Montant de l'Achat:"
+1295, 	"Reçu par courrier électronique"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1296, 	"Informations concernant votre compte"
+1297, 	"Précédent"
+1298, 	"Montant reçu:"
+1299, 	"Achat"
+1300, 	"Recevez"
+1301, 	"Supplémentaire"
+1302, 	"Tapez le mot de passe de ce kiosque pour éviter le relancement de Windows."
+1303, 	"Ce kiosque va être relancé dans"
+1306, 	"Enregistrement #:"
+1307, 	"Vous devez relancer votre ordinateur avant de pouvoir enregistrer"
+1308, 	"Accès Gatuit avec Limite de Temps"
+1309, 	"Accès Gatuit sans Limite de Temps"
+1310, 	"Minutes et Pages Pré-Payées"
+1311, 	"Minutes Pré-Payées (Pages déduites en Minutes)"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1312, 	"Montant Pré-Payé"
+1313, 	"Payer pour Minutes/Pages Utilisées (Afficher Min/Pages)"
+1314, 	"Payer pour Minutes/Pages Utilisées (Afficher Min/Pages/Montant)"
+1315, 	"Café Internet"
+1316, 	"Volume:"
+1317, 	"Maximum:"
+1318, 	"Défaut:"
+1319, 	"Imprimante"
+1320, 	"Disponible"
+1322, 	"Appliquer"
+1323, 	"Courant:"
+1324, 	"Précédent:"
+1325, 	"En Caisse Par:"
+1326, 	"Par:"
+1327, 	"Appliquer"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1328, 	"Collection D'Argent comptant"
+1329, 	"Lecture"
+1330, 	"Relancer (Securité)"
+1331, 	"Relancer (Desktop)"
+1332, 	"Shutdown"
+1333, 	"Retourner (Desktop)"
+1334, 	"Retourner (Kiosque)"
+1335, 	"Désenregistrer"
+1336, 	"Chargement de la configuration..."
+1337, 	"Désolé, ce disque n'est pas disponible..."
+1338, 	"Répertoire Invalide..."
+1339, 	"Un problème s'est produit lors de l'enregistrement de votre document:"
+1340, 	"Document non enregistré. Enregistrer maintenant?"
+1341, 	"Enregistrer Sous"
+1342, 	"Imprimer"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1346, 	"Capture Completée!"
+1347, 	"Son non disponible."
+1348, 	"Enregistrer"
+1349, 	"Jouer"
+1350, 	"Prenez une Photo"
+1351, 	"Envoyer"
+1357, 	"secondes - vous pouvez regarder ou ré-enregistrer votre vidéo"
+1358, 	"Placez-vous devant la caméra"
+1359, 	"Cliquez sur Enregistrer pour filmer votre vidéo"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1360, 	"Cliquez sur Envoyer pour envoyer votre vidéo"
+1362, 	"Placez-vous devant la caméra et prenez une photo"
+1365, 	"Choisissez une carte postale"
+1367, 	"Location:"
+1368, 	"Naviguer"
+1369, 	"Initiale"
+1370, 	"Précédent"
+1371, 	"Suivant"
+1372, 	"Actualiser"
+1373, 	"Taille (Police)"
+1374, 	"Rechercher"
+1375, 	"Nouvelle Fenêtre"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1376, 	"Cliquez ici pour retourner au menu principal"
+1377, 	"Votre balance est insuffisante pour imprimer ce document au complet"
+1378, 	"Désolé, ce site n'est pas permis."
+1379, 	"Désolé, ce fichier ne semble pas exister..."
+1380, 	"Désolé, ce disque n'est pas disponible..."
+1381, 	"existe déjà. Désirez-vous le remplacer?"
+1382, 	"Désirez-vous vraiment quitter?"
+1383, 	"Codec non présent"
+1384, 	"Caméra Vidéo non présente"
+1385, 	"Prix par Minute:"
+1386, 	"Prix par Page:"
+1387, 	"Paiement par Carte Minimum:"
+1388, 	"Paiement comptant Minimum:"
+1389, 	"Désirez-vous vraiment relancer cet ordinateur en mode sécuritaire?"
+1390, 	"Désirez-vous vraiment désenregistrer?"
+1391, 	"Votre ordinateur va maintenant se fermer. Continuer?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1392, 	"Votre ordinateur va maintenant être relancé. Continuer?"
+1393, 	"Ce courriel peut être trop gros pour la durée de temps qu'il vous reste. Continuer de toute façon?"
+1394, 	"Haut:"
+1395, 	"Gauche:"
+1396, 	"Largeur:"
+1397, 	"Hauteur:"
+1398, 	"Copier"
+1399, 	"Coller"
+1400, 	"Couper"
+1401, 	"Aucun changement"
+1402, 	"Réduire au plus petit"
+1403, 	"Agrandir au plus grand"
+1404, 	"Côtés gauches"
+1405, 	"Centres"
+1406, 	"Côtés droits"
+1407, 	"Espacer également"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1408, 	"Hauts"
+1409, 	"Bas"
+1410, 	"Merci"
+1411, 	"Les fichiers sauvegardés ici sont supprimés lorsque vous quittez"
+1412, 	"Points de Restauration"
+1413, 	"Restaurer"
+1414, 	"Votre présente configuration sera remplacée. Continuer?"
+1415, 	"Le Point de Restauration choisi sera remplacé. Continuer?"
+1416, 	"Ceci effectuera des changements dans la banque de données - Continuer?"
+1417, 	"n'est pas disponible - votre nom d'utilisateur est"
+1418, 	"Vous pouvez voir 12 images par groupe - chaque groupe nécessite un courriel séparé. Cliquez sur une photo pour choisir ou dé-choisir"
+1419, 	"Les photos choisies seront comprimées en 640x480 Pixel, 32 K, format JPEG"
+1423, 	"Pas de Compte S.V.P."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+1424, 	"Ce message n'a pas encore été envoyé et sera perdu. Continuer?"
+1425, 	"Apparaissez débranché"
+1426, 	"Cartes Postales"
+1427, 	"Point de Restauration crée."
+1428, 	"Nouvelle configuration appliquée."
+1429, 	"Le # Enregistrement suivant est maintenant disponible:"
+1430, 	"Pages imprimées:"
+1431, 	"Temps seront déduites de votre balance pour chaque page imprimée. Continuer?"
+1432, 	"Imprimante"
+1433, 	"Correcteur"
+1434, 	"pages n'ont pas été imprimées. Effectuez un paiement svp"
+1435, 	"Code de sécurité"
+1436, 	"On ne permet pas l'impression de cet emplacement"
+1437, 	"Choisissez L'Option:"
+1438, 	"Prix par copie:"
+1439, 	"Prix par fax:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1440, 	"Copy"
+1441, 	"Fax"
+1442, 	"Copies choisies pour le imprimeur:"
+1443, 	"Fax choisis pour le imprimeur:"
+1444, 	"On ne permet pas l'envoi de l'email du client de courrier de ce kiosque."
+1445, 	"Veuillez faire votre copies/fax maintenant Cliquer sur 'OK une fois fait."
+1446, 	"Veuillez appeler le service à la clientèle pour activer votre permis de Copy/Fax"
+1447, 	"Se relier aux services de carte..."
+1448, 	"La Réponse a reçu"
+1449, 	"La Transaction a approuvé"
+1450, 	"RAPPORT DE COLLECTION D'ARGENT COMPTANT"
+1451, 	"Identification De Kiosque :"
+1452, 	"Nom De Station:"
+1453, 	"Date:"
+1454, 	"Temps:"
+1455, 	"Le Nom Du Technicien:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1456, 	"Montant en espèces rapporté par base de données :"
+1457, 	"La Quantité Rapportée Du Technicien S'est rassemblée:"
+1458, 	"Rapport De Collection D'Argent comptant D'Emailing D'Erreur"
+1459, 	"Veuillez s'assurer que l'unité multifunction est mise, en mode lu et a sous tension le papier et les approvisionnements sufficent."
+1460, 	"Téléchargement De Dossier"
+1461, 	"Dossier:"
+1462, 	"Progrès:"
+1463, 	"Voulez-vous ouvrir ou sauver ce dossier?"
+1464, 	"Les changements faits aux arrangements de ce kiosque exigent de NetStop d'etre remis en marche. Si un relancement n'est pas effectue, le kiosque peut fonctionner anormalement. Remettez en marche le kiosque maintenant?"
+1465, 	"Seulement une copie par tirage est autorisee. Si vous souhaitez imprimer les copies additionnelles, appuyez sur la touche \"impression\" encore."
+1466, 	"Vous essayez d'ouvrir un dossier de pdf d'un site Web bloqué. Soyez conseillé svp que ce dossier ne peut être montré correctement."
+1467, 	"Imprimeur non trouvé. Contactez votre administrateur."
+1468, 	"hi-Zone Wi-Fi "
+1469, 	"MSN Messenger essaye actuellement de finir une session precedente. Svp attente 30 secondes et essai encore."
+1470, 	"N'a pas pu rechercher l'information de paquet."
+1471, 	"Veuillez indiquer un email address valide."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1472, 	"Choisissez Votre Paquet Désiré D'Accès"
+1473, 	"Après"
+1474, 	"SALAIRE AVEC L'ARGENT ET LA CARTE : ENCAISSEZ D'ABORD"
+1475, 	"Pour S'engager Pour L'Accès de WIFI, Complétez L'Information Ci-dessous"
+1476, 	"Nom et prénoms"
+1477, 	"Email"
+1478, 	"Question Secrète"
+1479, 	"Réponse"
+1480, 	"Votre question et réponse secrètes sont employées en cas que vous oubliez votre username ou mot de passe."
+1481, 	"Paiement"
+1482, 	"Insérez L'Argent Et/ou Frappez à toute volée Votre Carte"
+1483, 	"Total"
+1484, 	"Carte"
+1485, 	"Restez"
+1486, 	"Veuillez compléter tout le champ requis et assurez-vous que votre username et mot de passe sont des caractères de l'atleast 8 longs."
+1487, 	"Ce username est déjà en service. Veuillez choisir différent."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1488, 	"Erreur d'accès aux bases de données. Svp essai encore."
+1489, 	"Votre achat etait reussi. Vous pouvez maintenant ouvrir une session avec votre username et mot de passe."
+1490, 	"Envoyez un reçu d'achat à ma adresse de E-mail"
+1491, 	"L'Information De Carte"
+1492, 	"Êtes-vous sûr vous voulez-vous décommander ? Aucun paiement en espèces que vous avez effectué ne sera récupérable."
+1493, 	"NOTE : Impôts applicables non inclus."
+1494, 	"Ce paquet n'est pas disponible actuellement. Veuillez choisir des autres."
+1495, 	"Vous devez choisir un paquet à partir de ci-dessus afin de procéder."
+1496, 	"l'information d'achat d'hi-Zone Wi-Fi "
+1497, 	"Merci pour l'hi-Zone Wi-Fi  de choix ! Votre information d'achat est incluse pour vos disques comme en a été faite la demande."
+1498, 	"Transaction # :"
+1499, 	"Un problème a été produit créer votre compte. Veuillez appeler le support à la clientèle pour accomplir votre achat."
+1500, 	"Votre username est inadmissible. Il doit se composer des lettres et des nombres seulement, et soit huit caractères au minimum de longueur."
+1501, 	"Ce kiosque n'accepte pas des paiements en espèces"
+1502, 	"Ce kiosque n'accepte pas des paiements de carte"
+1503, 	"Paquet indisponible. Ce kiosque n'est pas configuré pour accepter des paiements d'argent comptant ou de carte."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1504, 	"Écrivez vos pleins premiers et derniers noms"
+1505, 	"Écrivez votre email address"
+1506, 	"Écrivez votre username désiré. Ce doit être des caractères de l'atleast huit longtemps"
+1507, 	"Entrez votre mot de passe désiré. Ce doit être des caractères de l'atleast huit longtemps"
+1508, 	"Écrivez votre question secrète ici"
+1509, 	"Écrivez la réponse à votre question secrète ici"
+1510, 	"Vous devez signer hors de la session courante d'utilisation avant que cette application puisse être employée"
+1511, 	"Vos dénominations d'argent comptant sont :"
+1512, 	"Êtes-vous fait balayant votre document ?"
+1513, 	"Le document balayé n'a pas pu être trouvé. Veuillez balayer vos documents encore."
+1514, 	"Le document balayé n'a pas pu être trouvé. Cliquez svp sur le bouton de DOSSIER de BALAYAGE pour balayer vos documents encore."
+1515, 	"Numéro de fax inadmissible."
+1516, 	"Le numéro de fax que vous avez écrit n'est pas un format valide. Veuillez resaisir votre numéro de fax dans le format suivant : 16132484867."
+1517, 	"Veuillez écrire le contenu de votre page de couverture."
+1518, 	"Désolé ! ! ! Votre demande n'a pas pu être traitée. Le centre serveur est occupé, essayent svp votre fax encore. VOUS N'AVEZ PAS ÉTÉ FACTURÉ CETTE TRANSACTION."
+1519, 	"Le centre serveur est occupe, attendent svp tandis que nous recueillons des informations sur votre fax"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1520, 	"Attendez svp tandis que nous nous relions au centre serveur."
+1521, 	"Votre transaction de fax a été décommandée selon votre demande."
+1522, 	"La transaction ne lui a pas été trouvée donc peut ne pas exister ou elle a pu avoir été déjà traitée. Vérifiez les transactions historiques pour voir si le fax est accompli. Si le fax n'est pas dans les disques historiques, alors l'identification de transaction n'existe pas."
+1523, 	"Désolé ! ! ! Votre carte n'a pas pu être traitée. Vous envoyez la transaction par fax avez été décommandé."
+1524, 	"Attendez svp tandis que votre carte de degré de solvabilité est traitée."
+1525, 	"Vous pouvez acheter plus de temps et envoyer votre fax encore."
+1526, 	"Votre ayez le degré de solvabilité à envoyer seulement"
+1527, 	"les pages, mais votre document de fax contient"
+1528, 	"ages. Votre transaction de fax a été décommandée."
+1529, 	"Préparation pour envoyer votre fax...."
+1530, 	"Le fax contient"
+1531, 	"page(s)."
+1532, 	"sera chargé à votre carte. Continuez d'envoyer par fax et d'afficher la carte de degré de solvabilité ? Continuez d'envoyer par fax et d'afficher la carte de degré de solvabilité ?"
+1533, 	"Recueillir des informations sur votre fax"
+1534, 	"Traitement de votre document de fax"
+1535, 	"Votre fax a été soumis au CENTRE SERVEUR. Si vous nous fournissiez une adresse valide de E-mail vous recevrez un E-mail confirmant la réception de votre document de fax dès que le document sera envoyé par fax."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1536, 	"Error!!! Unable to find the file."
+1537, 	"Votre transmission de fax à"
+1538, 	"a été avec succès accompli."
+1539, 	"est en marche."
+1540, 	"Se relier......"
+1541, 	"Attendez svp tandis que nous lisons votre document de fax. Selon le nombre de pages que vous l'envoyez par fax peut prendre peu de minutes."
+1542, 	"Attendez svp tandis que nous comptons les pages dans votre document de fax."
+1543, 	"Unable to count the pages in your fax document. Please try your fax again."
+1544, 	"Sorry for the inconvenience. The HOST is BUSY. Please try your fax again."
+1545, 	"Lite"
+1546, 	"Entreprise"
+1547, 	"Professionnel"
+1548, 	"Non inscrit"
+1549, 	"Attendez svp tandis que votre demande est traitée."
+1550, 	"Erreur ! ! ! Incapable de trouver le dossier."
+1551, 	"additional"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1552, 	"charge"
+1553, 	"VOTRE STATUT DE FAX :"
+1554, 	"Votre fax à"
+1555, 	"était"
+1556, 	"accompli avec succès"
+1557, 	"Vos options de copie et de fax sont arrêtées par l'administrateur."
+1558, 	"Montant en espèces rapporté par kiosque :"
+1559, 	"Nom De Passager Non trouve"
+1560, 	"Vous devez d'abord signer hors de votre session pour obtenir votre information sans fil d'accès"
+1561, 	"Veuillez frapper à toute volée votre carte de passager afin d'obtenir votre information sans fil de compte."
+1562, 	"L'Information Sans fil De Compte :"
+1563, 	"Nom D'Utilisateur :"
+1564, 	"Mot de passe :"
+1565, 	"Please write down your user name and password."
+1566, 	"Nombre De Carte"
+1567, 	"Exp. Date"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1568, 	"Select"
+1569, 	"Access libre avec le reportage (délai)"
+1570, 	"Access libre avec le reportage (Temps illimité)"
+1571, 	"Fermeture de session Windows"
+1572, 	"Vous Devez Être entré En tant qu'Administrateur"
+1573, 	"Mode Inadmissible De Paiement"
+1574, 	"Machine De Copy"
+1575, 	"Veuillez choisir B/W ou couleur et le nombre de pages que vous souhaitez acheter. Serrez alors l'achat."
+1576, 	"Achetez ce nombre de pages :"
+1577, 	"Prix par la page de B/W :"
+1578, 	"Price per Color Page:"
+1579, 	"Achat Total :"
+1580, 	"Finition"
+1581, 	"Source De papier"
+1582, 	"Dispositif d'alimentation"
+1583, 	"Verre"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1584, 	"Fixez L'Admin"
+1585, 	"Fixez Limité"
+1586, 	"ShellPro doit fonctionner d'une commande locale."
+1587, 	"Prix Par Copy de B/W"
+1588, 	"Prix Par Copy De Couleur"
+1589, 	"Prix Par Fax"
+1590, 	"Équilibre de page si bas. Effectuez un paiement svp"
+1591, 	"Cette action exigera de la commande de compte d'utilisateur d'être désactivée. Continuez ?"
+1592, 	"Copie\n"
+1593, 	"Imprimeur\n"
+1594, 	"Nom"
+1595, 	"Là où\n"
+1596, 	"Conducteur\n"
+1597, 	"Version\n"
+1598, 	"Commentaire\n"
+1599, 	"Chaîne d'impression\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1600, 	"Tous\n"
+1601, 	"Pages\n"
+1602, 	"De\n"
+1603, 	"À\n"
+1604, 	"Copies\n"
+1605, 	"Nombre de copies\n"
+1606, 	"Assemblez\n"
+1607, 	"Papier\n"
+1608, 	"Taille\n"
+1609, 	"Source\n"
+1610, 	"Orientation\n"
+1611, 	"Portrait\n"
+1612, 	"Paysage\n"
+1613, 	"Annulation\n"
+1614, 	"Pré-Autorisé"
+1615, 	"Fermez toutes les fenêtres de navigateur ?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1616, 	"***** KIOSQUE REMIS EN MARCHE *****\n"
+1617, 	"*** Libres ***"
+1618, 	"Le minimum a acheté"
+1619, 	"Veuillez placer les originaux RÉCEPTEURS sur le conducteur automatique situé sur le dessus ou le module de balayage, puis introduisez le nombre de pages originales et des copies de chacun que vous souhaitez acheter. Pressez l'achat si prêt."
+1620, 	"Nombre d'originaux:"
+1621, 	"Nombre de copies :"
+1622, 	"Gestionnaire"
+1623, 	"Des dossiers sauvés ici sont supprimés après chaque session quand vous signe-dehors. Drague de bouton de souris gauche - et - laissez tomber POUR DÉPLACER des dossiers. Commandez la drague de bouton de souris gauche - et - se laissent tomber POUR COPIER des dossiers."
+1624, 	"Ce type de dossier n'est pas soutenu.\n"
+1625, 	"Aucun dossier n'est choisi.\n"
+1626, 	"L'application associée exigée n'est pas installée."
+1627, 	"Cette version ne peut pas ouvrir des dossiers de XLSX."
+1628, 	"Cette version ne peut pas ouvrir des dossiers de DOCX."
+1629, 	"Services de bureau"
+1630, 	"Tirez les copies \n"
+1631, 	"Balayez à l'email"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1632, 	"Balayage au fax \n"
+1633, 	"Balayage à l'USB \n"
+1634, 	"Copie d'USB \n"
+1635, 	"Commencez plus de\n"
+1636, 	"3. DÉBUT \n"
+1637, 	"4. ACHAT \n"
+1638, 	"Avancé…\n"
+1639, 	"1. CHOISISSEZ LE SERVICE\n"
+1640, 	"2. ARRANGEMENTS \n"
+1641, 	"ÉVALUATION :\n"
+1642, 	"4. AUTORISEZ L'ACHAT \n"
+1643, 	"Ongles du pouce:\n"
+1644, 	"Feuillet plein:\n"
+1645, 	"Traitement - attendez svp\n"
+1646, 	"Copies\n"
+1647, 	"Email\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1648, 	"Fax\n"
+1649, 	"USB\n"
+1650, 	"Copie\n"
+1651, 	"Impression:\n"
+1652, 	"Copie:"
+1653, 	"Balayage:"
+1654, 	"Fax:"
+1655, 	"Taille de page:"
+1656, 	"# Copies :"
+1657, 	"Email address : "
+1658, 	"Fax #:\n"
+1659, 	"Commande \\ nom de fichier d'USB\n"
+1660, 	"# Originaux:"
+1661, 	"Prix par la page :"
+1662, 	"Achat Total :\n"
+1663, 	"La revue alors autorisent l'achat, commencent encore ou étroitement"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1665, 	"Résolution: "
+1666, 	"Si vous êtes satisfaisant après révision des images balayées, cliquez sur le bouton d'achat d'autorisation pour accomplir le service.\n"
+1667, 	"Cliquez sur le bouton de session de remise pour jeter ces images et pour reprendre"
+1668, 	"Cliquez sur le bouton étroit pour clôturer l'application de services de bureau.\n"
+1669, 	"Ceci dégagera tous les arrangements. Continuez? "
+1670, 	"Placez votre document RÉCEPTEUR dans le dispositif d'alimentation de module de balayage. Continuez?"
+1671, 	"Ceci ACCOMPLIRA le service et encourra toute la quantité d'achat. Continuez?"
+1672, 	"Entretenez COMPLET!\n"
+1673, 	"Rapport de fax d'email à moi "
+1674, 	"Adresse:"
+1675, 	"Incapable de traiter les pages balayées pour votre fax. Reprenez svp et retournez le document."
+1676, 	"Une erreur s'est produite tout en traitant votre fax. Réessayez svp. "
+1677, 	"4. AUTORISEZ l'ACHAT - tirez les copies"
+1678, 	"4. AUTORISEZ L'ACHAT - balayage à l'email \n"
+1679, 	"4. AUTORISEZ L'ACHAT - FAX \n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1680, 	"4. AUTORISEZ L'ACHAT - balayage à l'USB "
+1681, 	"Format \n"
+1682, 	"Spécifications de dossier inadmissibles."
+1683, 	"Une erreur s'est produite tout en copiant ce dossier. Réessayez svp.\n"
+1684, 	"Le traitement est sur le point de commencer. Continuez ?"
+1685, 	"Le balayage a été décommandé par l'utilisateur. Remise de clic à commencer encore."
+1686, 	"4. AUTORISEZ l'ACHAT - copie d'USB\n"
+1687, 	"Une erreur s'est produite tandis qu'impression ce dossier. Réessayez svp."
+1688, 	"Votre équilibre est insuffisant pour accomplir cet achat. "
+1689, 	"Acceptez:"
+1690, 	"Les pages ont demandé :"
+1691, 	"Coût:\n"
+1692, 	"Imprimer:"
+1693, 	"Pièce #:"
+1694, 	"Navigateur étroit?"
+1695,   "Écrivez le code d'accès pour augmenter l'annulation disponible d'équilibre ou de clic à la sortie"
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+1696, 	"Combination Id du Propiétaire/Validation non valide..."
+1697, 	"Ce code d'accès n'existe pas."
+1698,   "n'a aucun équilibre disponible."
+1699,   "Ce code d'accès est actuellement en service !"
+1700,   "Tournez 90°"
+1701,   "Photo Viewer"
+1702,   "Prévision"
+1703,   "Erreur montrant la prévision d'impression"
+1704, 	"Équilibre de page si bas."
+1705,   "Le mot de passe est inadmissible!"
+1706,   "Entrez le mot de passe."
+1707, 	"pages n'ont pas été imprimées."
+1708,   "Il y a un ou plusieurs travaux d'impression dans la file d'attente. Arrêter de fumer maintenant peut les supprimer."
+1709,   "Popup navigateur Web"
+1710,   "Cette application nécessite l'accès de plain-pied Premium."
+1711,   "Impression libre n'est pas autorisée sur "
+1712,   "Essayez à nouveau et sélectionnez "
+1713,   "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}

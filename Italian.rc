@@ -1,0 +1,822 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5100, 	"Italiano"
+5101, 	"Problema nella lettura dei dati dalla carta magnetica."
+5102, 	"E' stato rilevato un errore con la porta seriale. Codice dell'errore:"
+5103, 	"Accettatore Banconote Guasto"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5104, 	"Accettatore Banconote Pieno"
+5105, 	"Problema col Accettatore Banconote"
+5106, 	"E' accaduto un problema..."
+5107, 	"Operazione cancellata"
+5108, 	"Si è verificato un errore nel recupero del saldo..."
+5109, 	"Inizializzazione Kiosk con versione"
+5110, 	"Prossima manutenzione programmata"
+5111, 	"E' stato rilevato un errore con la porta seriale. Codice dell'errore:"
+5112, 	"Page File"
+5113, 	"Memoria Disponibile:"
+5114, 	"Registra"
+5115, 	"Nome Utente/Parola Chiave invalido/a"
+5116, 	"Il suo tempo è scaduto..."
+5117, 	"Questo codice d'accesso  è già in uso o è stato bloccato. Minuti rimanenti prima di essere sbloccato:"
+5118, 	"Questo conto è scaduto."
+5119, 	"Per favore effettuare pagamento durante la visualizzazione di questo messaggio per ricaricare il suo conto."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5120, 	"Errore nella lettura della carta - per favore riprovare"
+5121, 	"Questo tipo di cart non viene accettato."
+5122, 	"Non serve pagamento."
+5123, 	"Carta non valida..."
+5124, 	"Carta scaduta..."
+5125, 	"Minimo"
+5126, 	"Continua"
+5127, 	"Ci dispiace, non è stato possibile autorizzare l'acquisto."
+5128, 	"Manutenzione giornaliera in corso..."
+5129, 	"Scarico/esecuzione giornaliera completata"
+5130, 	"Errore con lo scarico/esecuzione giornaliera"
+5131, 	"Aggiornamento registro giornaliero completato"
+5132, 	"Errore aggiornamento registro giornaliero"
+5133, 	"Prossima manutenzione giornaliera programmata"
+5134, 	"Codice d'accesso"
+5135, 	"Cancella"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5136, 	"Nome Utente"
+5137, 	"Parola Chiave"
+5138, 	"Sign in"
+5139, 	"Menù"
+5140, 	"Uscire"
+5141, 	"Tab"
+5142, 	"Caps -Maiuscolo"
+5143, 	"Shift"
+5144, 	"Enter-Accetta"
+5145, 	"Nascondere tastiera video"
+5146, 	"Visuallizare tastiera video"
+5147, 	"Spazio"
+5148, 	"Il codice d'accesso non risulta nel database"
+5150, 	"Problema nell'accedere al database"
+5151, 	"Numero di registrazione invalido"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5152, 	"Questo numero di registrazione è già in uso."
+5153, 	"Deve acquistare un upgrade prima di registrare la versione istallata."
+5154, 	"*****Inizio nuovo log file*****"
+5155, 	"ID chiosco"
+5156, 	"Inizio uso codice d'accesso"
+5157, 	"per codice d'accesso:"
+5158, 	"Inizio uso codice d'accesso:"
+5159, 	"Inizio uso gratuito"
+5160, 	"Inizio uso con database non reperibile"
+5161, 	"Inizio uso"
+5162, 	"Pagamento#:"
+5163, 	"Fine uso#:"
+5164, 	"per codice d'accesso:"
+5165, 	"Minuti:"
+5166, 	"Pagine:"
+5167, 	"Fine uso gratuito"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5168, 	"Fine uso con database non reperibile"
+5169, 	"Importo"
+5170, 	"Fine uso"
+5171, 	"La transazione non è stata accettata"
+5172, 	"Il chiosco ripartirà fra"
+5173, 	"secondi..."
+5174, 	"Ci dispiace, questa funzione è stata disabilitata per motivi di sicurezza."
+5175, 	"Superato numero massimo di finestre aperte."
+5178, 	"Connessione primaria"
+5179, 	"Connessione secondaria"
+5180, 	"Connesso a"
+5181, 	"La connessione è stata cancellata."
+5182, 	"E' stato impossibile ristabilire la connessione. Si prega di riprovare piu tardi."
+5183, 	"Si prega di prendere nota del codice d'accesso per uso futuro."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5184, 	"Ultimo reboot (in ore):"
+5185, 	"Carte di credito"
+5186, 	"Pagamento in contanti"
+5187, 	"Totale pagamenti dall'ultimo log file:"
+5189, 	"Log File"
+5190, 	"Errore trasmissione log"
+5191, 	"ERRORE"
+5192, 	"Errore nella terminazione"
+5193, 	"Disconnesso dal"
+5194, 	"Disconnessione in corso..."
+5195, 	"Inizio Applicazione:"
+5196, 	"Web Browser"
+5197, 	"Posta Video"
+5198, 	"Spreadsheet"
+5199, 	"Elaboratore testo"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5200, 	"Inviare foto"
+5201, 	"Messenger"
+5202, 	"Inviare Posta Elettronica"
+5203, 	"Ricevere Posta Elettronica"
+5204, 	"Errore nel collegamento col servizio autorizzazione della carta di credito"
+5205, 	"Visa"
+5206, 	"MC"
+5207, 	"Amex"
+5208, 	"Diners"
+5209, 	"Discover"
+5210, 	"Pagamento in corso di verifica"
+5211, 	"Tipo:"
+5212, 	"Indirizzo posta elettronica"
+5213, 	"Acquisto"
+5214, 	"Grazie."
+5215, 	"Ricevuta"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5216, 	"Per favore prendere al ricevuta"
+5217, 	"Errore nel collegamento col servizio autorizzazione della carta di credito"
+5218, 	"Contanti"
+5219, 	"è già in uso - il tuo Nome Utente è"
+5220, 	"La transazione è stata cancellata"
+5221, 	"Errore durante l'elaborazione del pagamento."
+5222, 	"Non è stato possibile creare il tuo conto. Puoi communque usare il chiosco."
+5223, 	"Il tuo acconto non puo' essere aggiornato."
+5224, 	"Il documento è stato stampato con il seguente numero di pagine:"
+5225, 	"Gen"
+5226, 	"Feb"
+5227, 	"Mar"
+5228, 	"Apr"
+5229, 	"Mag"
+5230, 	"Giu"
+5231, 	"Lug"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5232, 	"Ago"
+5233, 	"Set"
+5234, 	"Ott"
+5235, 	"Nov"
+5236, 	"Dic"
+5237, 	"Dom"
+5238, 	"Lun"
+5239, 	"Mar"
+5240, 	"Mer"
+5241, 	"Gio"
+5242, 	"Ven"
+5243, 	"Sab"
+5244, 	"Prego attendere..."
+5245, 	"Creazione conto"
+5246, 	"Se desideri usare il saldo in futuro, devi specificare un nome utente e una parola chiave qui sotto e poi cliccare il tasto Continua. Altrimenti, clicca Cancella."
+5247, 	"Nome Utente:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5248, 	"Ri-inserisci parola chiave:"
+5249, 	"Deve essere composta almeno da (4) caratteri"
+5250, 	"Cancella"
+5251, 	"Collegamento in corso..."
+5252, 	"Verifica parola chiave..."
+5253, 	"Disconnesso"
+5254, 	"Selezione File"
+5255, 	"Nome File:"
+5256, 	"Inserire un dischetto in un drive disponibile poi cliccare sul tasto che rappresenta tale drive."
+5257, 	"Aprire"
+5258, 	"Salvare"
+5259, 	"Allegare file"
+5260, 	"OK"
+5261, 	"Si"
+5262, 	"No"
+5263, 	"Windows Messenger dev'essere istallato."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5264, 	"Operazione fallita"
+5265, 	"Devi prima selezionare qualcuno con cui chattare."
+5266, 	"Connesso"
+5267, 	"Comincia Chat"
+5268, 	"Chiudere"
+5269, 	"Ci dispiace, questo computer non consente l'uso dei drive."
+5270, 	"Invio messaggio in corso..."
+5271, 	"Server SMTP non specificato."
+5272, 	"Controlla che hai almeno un destinatario e che hai specificato un mittente valido..."
+5273, 	"Problema coll'invio del messaggio..."
+5274, 	"Il tuo messaggio è stato inviato."
+5275, 	"Il tuo nome"
+5276, 	"Indirizzo (mittente):"
+5277, 	"A:"
+5278, 	"CC:"
+5279, 	"Soggetto:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5280, 	"Inviare"
+5281, 	"Devi selezionare almeno un'immagine."
+5282, 	"Selezionare tutti"
+5283, 	"Cancellare tutti"
+5284, 	"Inviare immagini selezionate"
+5285, 	"Stop"
+5287, 	"Informazione richiesta"
+5288, 	"Nome:"
+5289, 	"Cognome:"
+5290, 	"Strada, numero civico"
+5291, 	"CAP"
+5292, 	"al minuto"
+5293, 	"per pagina"
+5294, 	"Importo"
+5295, 	"Ricevuto per posta elettronica"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5296, 	"Informazioni sul conto"
+5297, 	"Precedente"
+5298, 	"Importo Ricevuto"
+5299, 	"Acquisto"
+5300, 	"Ricevere"
+5301, 	"Extra"
+5302, 	"Inserisci la parola chiave di setup per evitare un riavvio (reboot)."
+5303, 	"Questo computer comincerà un reboot fra"
+5306, 	"Numero registrazione:"
+5307, 	"E' necessario un restart del computer prima della registrazione"
+5308, 	"Accesso gratuito con timer"
+5309, 	"Accesso gratuito senza timer"
+5310, 	"Minuti prepagati e pagine"
+5311, 	"Minuti prepagati (Stampe contate come minuti)"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5312, 	"Importo prepagato"
+5313, 	"Paga per tempo/stampe usato/e (visuallizzare min/pagine)"
+5314, 	"Paga per tempo/stampe usato/e (visuallizzare min/pagine/importo)"
+5315, 	"Cyber Cafe"
+5316, 	"Volume:"
+5317, 	"Massimo:"
+5318, 	"Default:"
+5319, 	"Stampante"
+5320, 	"Disponibile"
+5322, 	"Applica"
+5323, 	"Corrente:"
+5324, 	"Precedente:"
+5325, 	"Ricevuto Da:"
+5326, 	"Da:"
+5327, 	"Applica"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5328, 	"Raccolta Contanti"
+5329, 	"Cerca"
+5330, 	"Riavvia in modo sicuro"
+5331, 	"Riavvia in modo desktop"
+5332, 	"Shutdown"
+5333, 	"Torna al chiosco"
+5334, 	"Vai al Desktop"
+5335, 	"Inregistrare"
+5336, 	"Configurazione in corso di essere caricato..."
+5337, 	"Questo drive non è valido per gli utenti"
+5338, 	"Directory non valida..."
+5339, 	"Si è verificato un problema salvando il documento:"
+5340, 	"Documento non salvato. Salva addesso?"
+5341, 	"Salva come"
+5342, 	"Stampa"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5346, 	"Eseguito!"
+5347, 	"Audio non disponibile"
+5348, 	"Registra"
+5349, 	"Suona"
+5350, 	"Scatta foto"
+5351, 	"Inviare"
+5357, 	"secondi - puoi rivedere o ri-registrareil tuo video"
+5358, 	"Posizionati davanti alla camera"
+5359, 	"Clicca Registrare per registrare il tuo video"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5360, 	"Clicca Inviare per inviare il tuo video"
+5362, 	"Posizionati davanti alla camera e scatta una foto"
+5365, 	"Seleziona una cartolina"
+5367, 	"Locazione"
+5368, 	"Vai"
+5369, 	"Home"
+5370, 	"Ritorna"
+5371, 	"Avanti"
+5372, 	"Aggiorna"
+5373, 	"Dimensione caratteri"
+5374, 	"Cerca"
+5375, 	"Nuova finestra"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5376, 	"Clicca qui per tornare al menù principale"
+5377, 	"Il tuo saldo è insufficiente per stampare questo documento in pieno"
+5378, 	"Ci dispiace, accesso a questo sito è proibito"
+5379, 	"Questo file locale non esiste..."
+5380, 	"Ci dispiace, questo drive on è disponsibile..."
+5381, 	"esiste già. Vuoi sostituirlo?"
+5382, 	"Vuoi veramente chiudere l'applicazione?"
+5383, 	"Codec's mancanti"
+5384, 	"Video camera non trovata"
+5385, 	"Prezzo per minuto: "
+5386, 	"Prezzo per pagina: "
+5387, 	"Pagamento minimo con carta di credito: "
+5388, 	"Pagamento minimo in contanti: "
+5389, 	"Sei sicuro di voler riavviare in modalit=E0 sicura"
+5390, 	"Sei sicuro di voler cancellare la registrazione?"
+5391, 	"Il tuo computer verr=E1 spento. Continuare?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5392, 	"Il computer verr=E1 riavviato. Continuare?"
+5393, 	"E' possibile che non ti rimane abbastanza tempo per inviare questo email. Vuoi continuare comunque?"
+5394, 	"Sopra:"
+5395, 	"Sinistra:"
+5396, 	"Larghezza:"
+5397, 	"Altezza:"
+5398, 	"Copia"
+5399, 	"Incolla"
+5400, 	"Taglia"
+5401, 	"Nessuna variazione"
+5402, 	"Rimpiccolire"
+5403, 	"Ringrandire"
+5404, 	"Pagina sinistra"
+5405, 	"Centro"
+5406, 	"Pagina destra"
+5407, 	"Ripartire uniformemente"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5408, 	"Sopra"
+5409, 	"Sotto"
+5410, 	"Grazie"
+5411, 	"Files salvati qui vengono cancellati dopo ogni sessione quando siesce dall'applicazone."
+5412, 	"Ristora I punti"
+5413, 	"Restaurare"
+5414, 	"Quest'azione cancellerá la configurazione attuale - Continuare?"
+5415, 	"Quest'azione cancellerá il punto restauro selezionato - Continuare?"
+5416, 	"Questo modificherà il database - continuare?"
+5417, 	"già in uso - il tuo nome utente è"
+5418, 	"Vedere gruppi di 12 immagini - ciascun gruppo richiede un email separato. Cliccare una foto per selezionarla o di-selezionarla"
+5419, 	"All selected photos will be compressed to a 640x480 pixels, 32 K, JPEG format"
+5423, 	"Saltare creazione conto"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+5424, 	"Questo messaggio non è stato inviato e sarà perso. Continuare?"
+5425, 	"Utente Assente"
+5426, 	"Inviare cartolina"
+5427, 	"Creato punto restauro."
+5428, 	"La nuova configurazine é stata applicata."
+5429, 	"La seguente registrazione è ora disponibile:"
+5430, 	"Le pagine hanno stampato:"
+5431, 	"Per ogni pagina stampata saranno dedotti tempo dal tuo conto"
+5432, 	"Stampando"
+5433, 	"Ortografia"
+5434, 	"Pagine non sono state stampate. Effettui per favore un pagamento"
+5435, 	"Codice di sicurezza"
+5436, 	"La stampa non è permessa da questo luogo"
+5437, 	"selezioni prego un'opzione:"
+5438, 	"Prezzo per la copia:"
+5439, 	"Prezzo per il fax:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5440, 	"Copia"
+5441, 	"Fax"
+5442, 	"Copie selezionate per lo stampatore:"
+5443, 	"Fax selezionati per lo stampatore:"
+5444, 	"Trasmettendo il email dal cliente della posta di questo kiosk non e permessa."
+5445, 	"Ora faccia prego il vostro copies/fax. Scatti sopra l'APPROVAZIONE una volta fatto."
+5446, 	"Denomini prego il servizio di cliente per attivare la vostra autorizzazione di Copy/fax"
+5447, 	"Collegando alla scheda assiste..."
+5448, 	"Risposta Ricevuta"
+5449, 	"La Transazione Ha approvato"
+5450, 	"RAPPORTO DELL'ACCUMULAZIONE DEI CONTANTI"
+5451, 	"Identificazione Del Kiosk:"
+5452, 	"Nome Della Stazione:"
+5453, 	"Data:"
+5454, 	"Tempo:"
+5455, 	"Nome Del Tecnico:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5456, 	"Importo di contanti segnalato base di dati:"
+5457, 	"Importo Del Tecnico Segnalato Raccolto:"
+5458, 	"Rapporto Dell'Accumulazione Dei Contanti Di Emailing Di Errore"
+5459, 	"Assicurisi prego che l'unità multifunzionale è alimentata sopra, nel modo di lettura ed ha la carta e rifornimenti sufficent."
+5460, 	"Trasferimento dal sistema centrale verso i satelliti Della Lima"
+5461, 	"Lima:"
+5462, 	"Progresso:"
+5463, 	"Siete consentiti alla vista o conservate questa lima. Desiderate conservarli?"
+5464, 	"I cambiamenti fatti alle regolazioni di questo kiosk richiedono NetStop essere ricominciati. Se un riavviamento non e realizzato, il kiosk puo funzionare anormalmente. Ora ricominci il kiosk?"
+5465, 	"Soltanto una copia per il lavoro di stampa e consentita. Se desiderate stampare le copie supplementari, premi ancora il tasto di stampa."
+5466, 	"State tentando di aprire una lima del pdf da un Web site sicuro. Raccomandisi prego che questa lima non può essere visualizzata correttamente."
+5467, 	"Stampatore non trovato. Mettasi in contatto con il vostro coordinatore."
+5468, 	"hi-Zone Wi-Fi "
+5469, 	"MSN Messenger prova attualmente a finire una sessione precedente. Per favore attesa 30 seconde e prova ancora."
+5470, 	"Non ha potuto richiamare le informazioni del pacchetto."
+5471, 	"Specifichi prego un email address valido."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5472, 	"Selezioni Il Vostro Pacchetto Voluto Di Accesso"
+5473, 	"Dopo"
+5474, 	"PAGANDO CON I CONTANTI E LA SCHEDA: INCASSI IN PRIMO LUOGO"
+5475, 	"Per firmare In su Per Accesso di WIFI, Riempa Le Informazioni Qui sotto"
+5476, 	"Nome Completo"
+5477, 	"Email"
+5478, 	"Domanda Segreta"
+5479, 	"Risposta"
+5480, 	"La vostre domanda e risposta segrete sono usate nel caso che dimenticate il vostro username o parola d'accesso."
+5481, 	"Pagamento"
+5482, 	"Inserisca Prego I Contanti E/o Swipe La Vostra Carta di credito Ora"
+5483, 	"Totale"
+5484, 	"Scheda"
+5485, 	"Rimanga"
+5486, 	"Riempa prego tutto il campo richiesto ed accertisi che il vostri username e parola d'accesso siano caratteri del atleast 8 lunghi."
+5487, 	"Quel username è già in uso. Selezioni prego differente."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5488, 	"Errore di accesso di base di dati. Prego prova ancora."
+5489, 	"Il vostro acquisto riusciva. Potete ora entrare con il vostri username e parola d'accesso."
+5490, 	"Trasmetta una ricevuta dell'acquisto al mio indirizzo di E-mail"
+5491, 	"Le Informazioni Della Carta di credito"
+5492, 	"Siete sicuri voi desiderate annullare? Alcuni pagamenti che dei contanti avete effettuato non saranno ricuperabili."
+5493, 	"NOTA: Tasse applicabili non incluse."
+5494, 	"Questo pacchetto non è disponibile attualmente. Selezioni prego un altro."
+5495, 	"Dovete selezionare un pacchetto a partire da suddetto per continuare."
+5496, 	"le informazioni dell'acquisto di hi-Zone Wi-Fi "
+5497, 	"Grazie per il hi-Zone Wi-Fi  di scelta! Le vostre informazioni dell'acquisto sono incluse per le vostre annotazioni come chiesto."
+5498, 	"Transazione #:"
+5499, 	"Un problema è stato incontrato generare il vostro cliente. Denomini prego il supporto di cliente per completare il vostro acquisto."
+5500, 	"Il vostro username è non valido. Deve consistere delle lettere e dei numeri soltanto ed è un minimo di otto caratteri di lunghezza."
+5501, 	"Questo kiosk non accetta i pagamenti di contanti"
+5502, 	"Questo kiosk non accetta i pagamenti della scheda"
+5503, 	"Pacchetto non disponibile. Questo kiosk non è configurato per accettare i contanti o i pagamenti di carta di credito."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5504, 	"Introduca i vostri primi ed ultimi nomi completi"
+5505, 	"Entri nel vostro email address"
+5506, 	"Entri nel vostro username voluto. Deve essere caratteri del atleast otto lungamente"
+5507, 	"Digiti la vostra parola d'accesso voluta. Deve essere caratteri del atleast otto lungamente"
+5508, 	"Entri nella vostra domanda segreta qui"
+5509, 	"Fornisca la risposta alla vostra domanda segreta qui"
+5510, 	"Dovete firmare dalla sessione corrente di uso prima che questa applicazione possa essere usata"
+5511, 	"Le vostre denominazioni dei contanti sono"
+5512, 	"Siete fatti esploranti il vostro documento?"
+5513, 	"Il documento esplorato non ha potuto essere trovato. Esplori prego ancora i vostri documenti."
+5514, 	"Il documento esplorato non ha potuto essere trovato. Scatti prego sopra il tasto della LIMA di ESPLORAZIONE per esplorare ancora i vostri documenti."
+5515, 	"Numero non valido del fax."
+5516, 	"Il numero che del fax avete fornito non è una disposizione valida. Re-enter prego il vostro numero del fax nella seguente disposizione: 16132484867."
+5517, 	"Fornisca prego il contenuto della vostra pagina di copertina."
+5518, 	"Spiacente!!! La vostra richiesta non ha potuto essere proceduta. L'ospite è occupato, prego prova il vostro fax ancora. NON SIETE STATI ADDEBITATI QUESTA TRANSAZIONE."
+5519, 	"L'ospite è occupato, prego attende mentre riuniamo le informazioni sul vostro fax"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5520, 	"Attenda prego mentre colleghiamo all'ospite."
+5521, 	"La vostra transazione del fax è stata annullata secondo la vostra richiesta."
+5522, 	"La transazione gli non è stata trovata quindi non può esistere o può essere proceduta già. Controlli le transazioni storiche per vedere se il fax è completato. Se il fax non è nelle annotazioni storiche, allora l'identificazione di transazione non esiste."
+5523, 	"Spiacente!!! La vostra scheda non ha potuto essere proceduta. Transazione del fax siete stati annullati."
+5524, 	"Traitée di est del solvabilité del votre carte de degré de del que di tandis dello svp di Attendez."
+5525, 	"Potete comprare più tempo e trasmettere ancora il vostro fax."
+5526, 	"Vostro abbia accreditamento da trasmettere soltanto"
+5527, 	"le pagine, ma il vostro documento del fax contiene"
+5528, 	"pagine. La vostra transazione del fax è stata annullata."
+5529, 	"Preparazione trasmettere il vostro fax...."
+5530, 	"Il fax contiene"
+5531, 	"page(s)."
+5532, 	"sarà caricato alla vostra scheda. Procedi al faxing ed a fatturare la carta di credito?"
+5533, 	"Riunire le informazioni sul vostro fax"
+5534, 	"Elaborazione del vostro documento del fax"
+5535, 	"Il vostro fax è stato presentato all'OSPITE. Se ci forniste un indirizzo valido di E-mail riceverete un E-mail che conferma la ricevuta del vostro documento del fax non appena il documento faxed."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5536, 	"Attenda prego mentre trasmettiamo il vostro fax."
+5537, 	"La vostra trasmissione del fax a"
+5538, 	"è stato completato con successo."
+5539, 	"è in progresso."
+5540, 	"Collegamento......"
+5541, 	"Attenda prego mentre leggiamo il vostro documento del fax. Secondo il numero di pagine che faxing esso può occorrere pochi minuti."
+5542, 	"Attenda prego mentre contiamo le pagine nel vostro documento del fax."
+5543, 	"Incapace contare le pagine nel vostro documento del fax. Provi prego ancora il vostro fax."
+5544, 	"Spiacente per l'inconveniente. L'OSPITE è OCCUPATO. Provi prego ancora il vostro fax."
+5545, 	"Lite"
+5546, 	"Impresa"
+5547, 	"Professionista"
+5548, 	"Inregistrare"
+5549, 	"Attenda prego mentre la vostra richiesta sta procedenda."
+5550, 	"Errore!!! Incapace trovare la lima."
+5551, 	"supplementare"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5552, 	"carica"
+5553, 	"LA VOSTRA CONDIZIONE DEL FAX:"
+5554, 	"Il vostro fax a"
+5555, 	"era"
+5556, 	"completato con successo"
+5557, 	"Le vostre opzioni del fax e della copia sono spente dal coordinatore."
+5558, 	"Importo di contanti segnalato kiosk:"
+5559, 	"Nome Del Passeggero Non trovato"
+5560, 	"Dovete in primo luogo firmare dalla vostra sessione per ottenere le vostre informazioni senza fili di accesso\n"
+5561, 	"Swipe prego la vostra scheda del passeggero per ottenere le vostre informazioni senza fili di cliente.\n"
+5562, 	"Le Informazioni Senza fili Di Cliente:\n"
+5563, 	"Nome Dell'Utente:"
+5564, 	"Parola d'accesso:"
+5565, 	"Annoti prego il vostri nome e parola d'accesso dell'utente."
+5566, 	"Numero Di Scheda"
+5567, 	"Exp. Data"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5568, 	"Select"
+5569, 	"Libero accesso con la segnalazione (scadenza)"
+5570, 	"Libero accesso con la segnalazione (Tempo illimitato)"
+5571, 	"Fine attività Windows"
+5572, 	"Dovete Essere aperti la sessione Come Coordinatore"
+5573, 	"Modo Non valido Di Pagamento"
+5574, 	"Macchina Del Copy"
+5575, 	"Selezioni prego B/W o colore ed il numero di pagine che desiderate comprare. Allora premi l'acquisto."
+5576, 	"Compri questo numero di pagine:"
+5577, 	"Prezzo per la pagina di B/W:"
+5578, 	"Prezzo per la pagina di colore:"
+5579, 	"Acquisto Totale:"
+5580, 	"Rivestimento"
+5581, 	"Fonte Di carta"
+5582, 	"Alimentatore Di Documento"
+5583, 	"Vetro"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5584, 	"Fissi Il Admin"
+5585, 	"Fissi Limitato"
+5586, 	"ShellPro deve allontanarsi da un azionamento locale."
+5587, 	"Prezzo Per Il Copy di B/W"
+5588, 	"Prezzo Per Il Copy Di Colore"
+5589, 	"Prezzo Per Il Fax"
+5590, 	"Equilibrio della pagina troppo basso.  Effettui per favore un pagamento."
+5591, 	"Questa azione richiederà il controllo di cliente di utente di essere disabile. Continui?"
+5592, 	"Stampa \n"
+5593, 	"Stampatore\n"
+5594, 	"Nome \n"
+5595, 	"Dove \n"
+5596, 	"Driver \n"
+5597, 	"Versione \n"
+5598, 	"Commento \n"
+5599, 	"Intervallo di stampa \n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5600, 	"Tutti \n"
+5601, 	"Pagine \n"
+5602, 	"Da\n"
+5603, 	"Per \n"
+5604, 	"Copie \n"
+5605, 	"Numero delle copie \n"
+5606, 	"Fascicoli \n\n"
+5607, 	"Carta \n\n"
+5608, 	"Il Formato \n"
+5609, 	"Fonte \n\n"
+5610, 	"Orientamento\n"
+5611, 	"Ritratto\n\n"
+5612, 	"Paesaggio\n"
+5613, 	"annullamento\n\n"
+5614, 	"Pre-Autorizzato"
+5615, 	"Chiuda tutte le finestre di browser?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5616, 	"***** IL CHIOSCO HA RICOMINCIATO *****\n"
+5617, 	"*** Libero ***"
+5618, 	"Minimo comprato"
+5619, 	"Disponga prego gli originali RIVOLTI VERSO L'ALTO sull'alimentatore automatico situato sulla parte superiore o sul dispositivo d'esplorazione, quindi fornisca il numero delle pagine originali e copie di ciascuno che desideriate comprare. Premi l'acquisto una volta pronto."
+5620, 	"Numero degli originali:"
+5621, 	"Numero delle copie:"
+5622, 	"Amministratore dell'archivio"
+5623, 	"Le lime conservate qui sono cancellate dopo ogni sessione quando voi segno-fuori. Resistenza del tasto di mouse di sinistra - e - cada PER SPOSTARE le lime. Controlli la resistenza del tasto di mouse di sinistra - e - cadono PER COPIARE le lime."
+5624, 	"Questo tipo di lima non è sostenuto.\n"
+5625, 	"Nessuna lima è selezionata.\n"
+5626, 	"L'applicazione collegata richiesta non è installata."
+5627, 	"Questa versione non può aprire le lime di XLSX."
+5628, 	"Questa versione non può aprire le lime di DOCX."
+5629, 	"Servizi dell'ufficio"
+5630, 	"Faccia le copie\n"
+5631, 	"Esplori al email\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5632, 	"Esplorazione da inviare via fax \n"
+5633, 	"Esplorazione al USB \n"
+5634, 	"Stampa dal USB \n"
+5635, 	"Inizi sopra\n"
+5636, 	"3. INIZIO \n"
+5637, 	"4. ACQUISTO \n"
+5638, 	"Avanzato…\n"
+5639, 	"1. SELEZIONI IL SERVIZIO"
+5640, 	"2. REGOLAZIONI \n"
+5641, 	"VALUTAZIONE: \n"
+5642, 	"4. AUTORIZZI L'ACQUISTO\n"
+5643, 	"Thumbnails:\n"
+5644, 	"Pagina completa:\n"
+5645, 	"Elaborazione - attenda prego \n"
+5646, 	"Copie\n"
+5647, 	"Email\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5648, 	"Fax"
+5649, 	"USB"
+5650, 	"Stampa"
+5651, 	"Stampa:"
+5652, 	"Copiatura:\n"
+5653, 	"Esame:"
+5654, 	"Fax:"
+5655, 	"Formato di pagina:"
+5656, 	"# Copie:"
+5657, 	"Email address:"
+5658, 	"Fax #:"
+5659, 	"Azionamento \\ nome di schedario del USB\n"
+5660, 	"# Originali: "
+5661, 	"Prezzo per pagina:"
+5662, 	"Acquisto Totale:"
+5663, 	"La revisione allora autorizza l'acquisto, comincia ancora o vicino"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5665, 	"Risoluzione:"
+5666, 	"Se siete soddisfatto dopo l'esame delle immagini esplorate, scatti il tasto dell'acquisto di autorizzazione per completare il servizio. "
+5667, 	"Scatti il tasto di sessione di risistemazione per scartare queste immagini e per iniziare ancora."
+5668, 	"Scatti il tasto vicino per chiudere l'applicazione di servizi dell'ufficio.\n"
+5669, 	"Ciò rimuoverà tutte le regolazioni. Continui?"
+5670, 	"Disponga il vostro documento RIVOLTO VERSO L'ALTO nell'alimentatore di documento del dispositivo d'esplorazione. Continui?"
+5671, 	"Ciò COMPLETERÀ il servizio e subirà l'importo totale dell'acquisto. Continui?"
+5672, 	"Assista COMPLETO! "
+5673, 	"Rapporto del fax del email a me "
+5674, 	"Indirizzo:"
+5675, 	"Incapace di procedare le pagine esplorate per il vostro fax. Inizi prego ancora e pre-esplori il documento."
+5676, 	"Un errore ha accaduto mentre procedava il vostro fax. Processi nuovamente prego."
+5677, 	"4. AUTORIZZI l'ACQUISTO - faccia le copie \n"
+5678, 	"4. AUTORIZZI L'ACQUISTO - esplorazione al email "
+5679, 	"4. AUTORIZZI L'ACQUISTO - FAX "
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5680, 	"4. AUTORIZZI L'ACQUISTO - esplorazione al USB "
+5681, 	"Disposizione"
+5682, 	"Specifica di lima non valida."
+5683, 	"Un errore ha accaduto mentre copiava questa lima. Processi nuovamente prego.\n"
+5684, 	"L'elaborazione sta circa per cominciare. Continui?\n"
+5685, 	"L'esame è stato annullato dall'utente. Risistemazione di scatto da cominciare ancora."
+5686, 	"4. AUTORIZZI l'ACQUISTO - stampa dal USB "
+5687, 	"Un errore ha accaduto mentre stampa questa lima. Processi nuovamente prego."
+5688, 	"Il vostro equilibrio è insufficiente per completare questo acquisto."
+5689, 	"Accetti:"
+5690, 	"Le pagine hanno chiesto:"
+5691, 	"Costo:"
+5692, 	"Stampa:"
+5693, 	"Stanza #:"
+5694, 	"Browser vicino?"
+5695,   "Imposti il codice di accesso per aumentare l'annullamento disponibile di scatto o dell'equilibrio all'uscita"
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+5696, 	"Combinazione ID/Codice di autenticazione non valida"
+5697, 	"Questo Codice di accesso non è stato trovato."
+5698,   "non ha equilibrio disponibile"
+5699,   "Questo codice di accesso è attualmente in uso!"
+5700,   "Giri 90°"
+5701,   "Foto Viewer" 
+5702,   "Previsione" 
+5703,   "Errore che visualizza anteprima di stampa"
+5704, 	"Equilibrio della pagina troppo basso."
+5705,   "La parola d'accesso è non valida."
+5706,   "Digiti la parola d'accesso:"
+5707, 	"Pagine non sono state stampate."
+5708,   "Ci sono uno o più processi di stampa nella coda. Smettere di fumare ora può eliminarli."
+5709,   "Web Browser Popup"
+5710,   "Questa applicazione richiede accesso livello Premium"
+5711,   "Non è consentita la stampa libera su "
+5712,   "Prova di nuovo e selezionare"
+5713,   "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}

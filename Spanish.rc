@@ -1,0 +1,822 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2100, 	"EspaÒol"
+2101, 	"Hay un problema en la lectura de data desde la tarjeta magnÈtica."
+2102, 	"Un error en el puerto serial ha sido detectado. CÛdigo de error: "
+2103, 	"Bill acceptor CONGESTIONADO"
+2104, 	"Bill acceptor SATURADO"
+2105, 	"Cash Acceptor Falla"
+2106, 	"Un problema ha ocurrido..."
+2107, 	"OperaciÛn cancelada."
+2108, 	"Un problema ha ocurrido mientras se recobraba su balance..."
+2109, 	"Inicializando el kiosko con libertad"
+2110, 	"Siguiente horario para el mantenimiento diario:"
+2111, 	"Un error en el puerto serial ha sido detectado. CÛdigo de error: "
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2112, 	"Archivo de p·gina:"
+2113, 	"Memoria disponible:"
+2114, 	"Registro"
+2115, 	"Inv·lido nombre de usuario y contraseÒa..."
+2116, 	"Su tiempo ha expirado..."
+2117, 	"Este cÛdigo de acceso est· en uso o bloqueado. Minutos pendientes antes de desbloquearse:"
+2118, 	"Esta cuenta ha expirado."
+2119, 	"Haga su pago mientras este mensaje despliegue para recargar su cuenta actual."
+2120, 	"Su tarjeta no puede ser leida - por favor trate nuevamente"
+2121, 	"Este tipo de tarjeta no es aceptado..."
+2122, 	"Pagos no requeridos"
+2123, 	"Tarjeta no v·lida..."
+2124, 	"Tarjeta expirada..."
+2125, 	"MÌnimo"
+2126, 	"Continuar"
+2127, 	"Disculpe, la compra no puede ser procesada."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2128, 	"EjecuciÛn de mantenimiento diario..."
+2129, 	"La transferecia diaria y ejecuciÛn terminÛ con Èxito."
+2130, 	"Problema diario en transferencia/ejecuciÛn - "
+2131, 	"ActualizaciÛn de registro diario ha completado satisfactoriamente."
+2132, 	"Problema de registro diario actualizado - "
+2133, 	"Siguiente horario para el mantenimiento diario: "
+2134, 	"CÛdigo de acceso:"
+2135, 	"Limpio"
+2136, 	"Nombre de usuario:"
+2137, 	"ContraseÒa:"
+2138, 	"Entrar"
+2139, 	"Men˙"
+2140, 	"Salir"
+2141, 	"Tab"
+2142, 	"Caps"
+2143, 	"Shift"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2144, 	"Enter"
+2145, 	"Esconder Teclado en la pantalla"
+2146, 	"Mostrar teclado en la pantalla"
+2147, 	"espacio"
+2148, 	"Su cÛdigo de acceso no fue encontrado en la base de datos..."
+2150, 	"Problemas para accessar a la base de datos..."
+2151, 	"N˙mero de registro inv·lido."
+2152, 	"Este n˙mero de registro ya est· siendo en uso."
+2153, 	"Usted debe comprar una versiÛn actualizada antes de resgistrar la versiÛn instalada."
+2154, 	"***** Comienzo de un archivo de diario nuevo *****"
+2155, 	"IdentificaciÛn del Kiosko"
+2156, 	"Empezando el uso del cÛdigo de acceso"
+2157, 	"Para el cÛdigo de acceso:"
+2158, 	"Comenzar el uso de cÛdigo de acceso:"
+2159, 	"Comenzar el uso libre"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2160, 	"Comenzando el uso con la base de datos indisponible"
+2161, 	"Comenzando el uso"
+2162, 	"Pago #:"
+2163, 	"Fin del uso #:"
+2164, 	"Para el cÛdigo de acceso:"
+2165, 	"Minutos:"
+2166, 	"P·ginas:"
+2167, 	"Terminando el uso libre"
+2168, 	"Finalizando el uso con la base de datos indisponible"
+2169, 	"Cantidad:"
+2170, 	"Finalizando el uso"
+2171, 	"La transacciÛn fue declinada..."
+2172, 	"Este Kiosko va a volver a empezar"
+2173, 	"segundos..."
+2174, 	"Disculpe por la molestia, esta funciÛn no es apoyada por razones de seguridad..."
+2175, 	"El m·ximo n˙mero de ventanas ha excedido."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2178, 	"ConecciÛn primaria"
+2179, 	"ConecciÛn secundaria"
+2180, 	"Connectada a"
+2181, 	"La connecciÛn fue cancelada."
+2182, 	"La connecciÛn no puede ser reestablecida. Por favor, trate nuevamente."
+2183, 	"Tome nota de su cÛdigo de acceso para uso futuro:"
+2184, 	"Ultima reiniciada (en horas):"
+2185, 	"Tarjeta de CrÈditos"
+2186, 	"Pagos en efectivo"
+2187, 	"Pagos totales desde el  pasado archivo diario:"
+2189, 	"Archivo diario"
+2190, 	"Problema para enviar el registro:"
+2191, 	"ERROR"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2192, 	"Problema terminando el uso:"
+2193, 	"Desconectando desde"
+2194, 	"Desconectando..."
+2195, 	"El programa ha empezado:"
+2196, 	"Web Browser"
+2197, 	"Video Email"
+2198, 	"Hoja de c·lculo"
+2199, 	"Procesador de Texto"
+2200, 	"Enviar Fotos"
+2201, 	"Messenger"
+2202, 	"Enviar Email"
+2203, 	"Recibir Email"
+2204, 	"Problema accesando al procesador de la tarjeta de crÈdito."
+2205, 	"Visa"
+2206, 	"Mastercard"
+2207, 	"American Express"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2208, 	"Diners"
+2209, 	"Discover"
+2210, 	"Procesando pago:"
+2211, 	"Tipo:"
+2212, 	"DirecciÛn de Correo electrÛnico:"
+2213, 	"Compra"
+2214, 	"Gracias."
+2215, 	"Recibo"
+2216, 	"Tome por favor su recibo..."
+2217, 	"Problema procesando la tarjeta de crÈdito"
+2218, 	"Efectivo"
+2219, 	"ya fue utilizado - su nombre de usuario es"
+2220, 	"La transacciÛn fue cancelada."
+2221, 	"Un problema ha ocurrido mientras se procesaba el pago."
+2222, 	"Su cuenta no pudo ser creada. Usted tendra que seguir usando el kiosko."
+2223, 	"Su cuenta no pudo ser actualizada."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2224, 	"Documento impreso con los siguientes n˙meros de p·ginas:"
+2225, 	"Ene"
+2226, 	"Feb"
+2227, 	"Mar"
+2228, 	"Abr"
+2229, 	"May"
+2230, 	"Jun"
+2231, 	"Jul"
+2232, 	"Ago"
+2233, 	"Sep"
+2234, 	"Oct"
+2235, 	"Nov"
+2236, 	"Dic"
+2237, 	"Dom"
+2238, 	"Lun"
+2239, 	"Mar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2240, 	"Mie"
+2241, 	"Jue"
+2242, 	"Vie"
+2243, 	"Sab"
+2244, 	"Por favor espere..."
+2245, 	"CreaciÛn de cuenta"
+2246, 	"Si usted desea usar su balance en el futuro, specifique un nombre de usuario y contraseÒa y luego haga clic en el botÛn Nontinuar. De lo contrario haga clic en el botÛn Caneclar."
+2247, 	"Nombre de usuario:"
+2248, 	"Reingrese contraseÒa:"
+2249, 	"Debe tener como mÌnimo cuatro(4) caracteres de largo."
+2250, 	"Cancelar"
+2251, 	"Conectando..."
+2252, 	"Verificando contraseÒa..."
+2253, 	"Disconectando"
+2254, 	"SelecciÛn de archivo"
+2255, 	"Nombre de archivo:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2256, 	"Inserte un disco en uno de los drive(s) disponibles despuÈs haga clic en el botÛn que representa ese drive."
+2257, 	"Abrir"
+2258, 	"Salvar"
+2259, 	"Adjuntar archivo"
+2260, 	"Ok"
+2261, 	"Si"
+2262, 	"No"
+2263, 	"Windows Messenger necesita ser instalado"
+2264, 	"OperaciÛn ha fallado."
+2265, 	"Debe seleccionar a alguien con quien usted desea conversar."
+2266, 	"Conectado"
+2267, 	"Comenzar Hablar"
+2268, 	"Cerrar"
+2269, 	"Disculpe, esta computadora no permite el uso de drives."
+2270, 	"Enviando mensaje..."
+2271, 	"El servidor SMTP ha sido especificado."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2272, 	"Asegurese que tiene al menos un recipiente y una direcciÛn v·lida..."
+2273, 	"Problema enviado su mensaje..."
+2274, 	"Su mensaje ha sido enviado."
+2275, 	"Su nombre:"
+2276, 	"DirecciÛn de retorno:"
+2277, 	"A:"
+2278, 	"copia:"
+2279, 	"Tema:"
+2280, 	"Enviar"
+2281, 	"Debe seleccionar al menos una imagen."
+2282, 	"Seleccione todo"
+2283, 	"Limpiar todo"
+2284, 	"Envie im·genes seleccionadas"
+2285, 	"Parar"
+2287, 	"InformaciÛn requerida:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2288, 	"Nombre:"
+2289, 	"Apellidos:"
+2290, 	"DirecciÛn:"
+2291, 	"CÛdigo postal:"
+2292, 	"por minuto"
+2293, 	"por p·gina"
+2294, 	"Monto de compra:"
+2295, 	"Email recibido"
+2296, 	"InformaciÛn de cuenta"
+2297, 	"Anterior"
+2298, 	"Monto recibido:"
+2299, 	"Compra"
+2300, 	"Recibido"
+2301, 	"Extra"
+2302, 	"Ingrese contraseÒa para prevenir la reiniciaciÛn."
+2303, 	"Esta computadora va a reiniciar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2306, 	"N˙mero de registro:"
+2307, 	"Necesita reiniciar su computadora antes que usted se registre"
+2308, 	"Acceso libre con tiempo"
+2309, 	"Free Access Without Timer"
+2310, 	"Minutos prepagados y p·ginas"
+2311, 	"Minutos prepagados (impresiÛn cargada como minutos)"
+2312, 	"Monto prepagado"
+2313, 	"Paga por tiempo/impresiÛn usado (mostrar Minutos/P·ginas)"
+2314, 	"Paga por tiempo/impresiÛn usado (mostrar Minutos/P·ginas/Monto)"
+2315, 	"Cyber CafÈ"
+2316, 	"Volumen:"
+2317, 	"M·ximo:"
+2318, 	"Por defecto:"
+2319, 	"ImpresiÛn"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2320, 	"Disponible"
+2322, 	"Aplicar"
+2323, 	"Actual:"
+2324, 	"Anterior:"
+2325, 	"Recolectar Por:"
+2326, 	"Por:"
+2327, 	"Aplicar"
+2328, 	"ColecciÛn del efectivo"
+2329, 	"Query"
+2330, 	"Reiniciar en modo seguro"
+2331, 	"Reiniciar al escritorio"
+2332, 	"Apagar"
+2333, 	"Ir al escritorio"
+2334, 	"Regresar al Kiosko"
+2335, 	"No registrado"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2336, 	"Cargando configuraciÛn..."
+2337, 	"Este drive no es v·lido para los usuarios"
+2338, 	"Directorio no v·lido..."
+2339, 	"Un problema ha ocurrido mientras se guardaba su documento:"
+2340, 	"Documento no guardado.  Guardar ahora?"
+2341, 	"Guardar como"
+2342, 	"Imprimir"
+2346, 	"Captura Completado!"
+2347, 	"Audio no disponible."
+2348, 	"Guardar"
+2349, 	"Reproducir"
+2350, 	"Tomar foto"
+2351, 	"Enviar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2357, 	"segundos - Usted puede regrabar o reproducir su video"
+2358, 	"Pongase enfrente de la c·mara"
+2359, 	"Haga click en Grabar para comenzar a grabar su video"
+2360, 	"De Click en Enviar para enviar el video"
+2362, 	"Pongase enfrente de la c·mara y tome una foto"
+2365, 	"Seleccione una Tarjeta Postal"
+2367, 	"UbicaciÛn:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2368, 	"Ir"
+2369, 	"Inicio"
+2370, 	"Retroceder"
+2371, 	"Avanzar"
+2372, 	"Refrescar"
+2373, 	"TamaÒo de Fuente"
+2374, 	"Buscar"
+2375, 	"Nueva Ventana"
+2376, 	"Haga clic aqui para regresar al men˙ principal"
+2377, 	"Su balance es insuficiente para imprimir este documento completo"
+2378, 	"Disculpe, esta p·gina no est· permitida."
+2379, 	"Este archivo local no existe..."
+2380, 	"Disculpe, este drive no est· disponible..."
+2381, 	"Ya existe. øDesea reemplazarlo?"
+2382, 	"ø Realmente desea usted salir?"
+2383, 	"Codecs perdidos"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2384, 	"No se encontro Videocamara"
+2385, 	"Precio por minuto: "
+2386, 	"Precio por pagina: "
+2387, 	"Pago Minimo con Tarjeta: "
+2388, 	"Pago Minimo en Efectivo: "
+2389, 	"øEsta seguro que desea reinicar en Modo Seguro?"
+2390, 	"øEsta seguro que desea quitar el Registro?"
+2391, 	"Su computadora se apagara ahora. Desea Continuar?"
+2392, 	"Su computadora se va a reinicar ahora. Desea Continuar?"
+2393, 	"Puede que a usted no le quede suficiente tiempo en su sesiÛn para enviar este correo electrÛnico (e-mail). øContinuar de todos modos?"
+2394, 	"Superior:"
+2395, 	"Izquierda:"
+2396, 	"Ancho:"
+2397, 	"Alto:"
+2398, 	"Copiar"
+2399, 	"Pegar"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2400, 	"Cortar"
+2401, 	"Sin Cambio"
+2402, 	"Disminuir al mÌnimo"
+2403, 	"Aumentar al m·ximo"
+2404, 	"Lado Izquierdo"
+2405, 	"Centrado"
+2406, 	"Lado Derecho"
+2407, 	"Espaciado igualmente"
+2408, 	"Superior"
+2409, 	"Inferior"
+2410, 	"Gracias"
+2411, 	"Archivos 'guardados' aqui son eliminados despues de cada sesion cuando usted termina"
+2412, 	"Puntos de RestaruaciÛn"
+2413, 	"Restaurar"
+2414, 	"Esto sobreescribir· su configuracion actual. Desea continuar?"
+2415, 	"Esto sobreescribir· el punto de RestauraciÛn seleccionado. Desea continuar?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2416, 	"Esto realizar· cambios en la base de datos - Desea continuar?"
+2417, 	"Ya est· en Uso - Su nombre de Usuario es:"
+2418, 	"Vea grupos de 12 im·genes - cada grupo requiere un email separado. De Click en una imagen para seleccionar o deseleccionar"
+2419, 	"Todas las fotos seleccionadas seran comprimidas a 640 X 480 pixels, 32K, y formato JPEG"
+2423, 	"Saltar CreaciÛn de Cuenta"
+2424, 	"Este mensaje no ha sido enviado a˙n. Desea Continuar?"
+2425, 	"Aparecer fuera de linea"
+2426, 	"Enviar Tarjetas Postales"
+2427, 	"Restaurar punto creado."
+2428, 	"Nueva Configuracion Aplicada."
+2429, 	"El siguiente # de registro esta ahora disponible:"
+2430, 	"P·ginas impresas:"
+2431, 	"Tiempo ser·n descontados de su balance por cada p·gina impresa. øContinuar?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+2432, 	"ImpresiÛn"
+2433, 	"Deletreo"
+2434, 	"p·ginas no fueron impresas. Por favor haga un pago."
+2435, 	"CÛdigo de seguridad"
+2436, 	"La impresiÛn no esta permitida desde esta p·gina"
+2437, 	"Seleccione su opciÛn:"
+2438, 	"Precio por copia:"
+2439, 	"Precio por fax:"
+2440, 	"Copia"
+2441, 	"Fax"
+2442, 	"Copias seleccionadas para el MFP:"
+2443, 	"Faxes seleccionados para el MFP:"
+2444, 	"Enviar el email del cliente del correo de este quiosco no se permite."
+2445, 	"Ahora haga por favor su copies/fax. Chasque encendido la AUTORIZACI”N cuando est· hecho."
+2446, 	"Llame por favor el servicio de cliente para activar su licencia de Copy/Fax"
+2447, 	"El conectar con la tarjeta mantiene..."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2448, 	"Transfeencia directa Del Archivo\n"
+2449, 	"Transaccion Aprobada"
+2450, 	"INFORME DE LA COLECCION DEL EFECTIVO"
+2451, 	"IdentificaciÛn Del Quiosco:"
+2452, 	"Nombre De la EstaciÛn:"
+2453, 	"Fecha:"
+2454, 	"Tiempo:"
+2455, 	"Nombre Del TÈcnico:"
+2456, 	"Cantidad de efectivo divulgada base de datos:"
+2457, 	"La Cantidad Divulgada Del TÈcnico RecogiÛ:"
+2458, 	"Informe De la ColecciÛn Del Efectivo De Emailing Del Error"
+2459, 	"CerciÛrese de por favor que la unidad de m˙ltiples funciones estÈ accionada encendido, en modo leÌdo y que tenga el papel y fuentes sufficent."
+2460, 	"Transferencia directa Del Archivo"
+2461, 	"Archivo:"
+2462, 	"Progreso:"
+2463, 	"?Usted desea abrir o ahorrar este archivo?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2464, 	"egunta Secreta\n"
+2465, 	"Solamente una copia por trabajo de impresion se permite. Si usted desea imprimir copias adicionales, presione el boton de impresion otra vez."
+2466, 	"Usted est· procurando abrir un archivo del pdf de un Web site seguro. AconsÈjese por favor que este archivo no se puede exhibir correctamente."
+2467, 	"Impresora no encontrada. Entre en contacto con a su administrador."
+2468, 	"hi-Zone Wi-Fi "
+2469, 	"MSN Messenger intenta actualmente terminar una sesion anterior. Por favor espera 30 segundo y prueba aun."
+2470, 	"No podÌa recuperar la informaciÛn del paquete."
+2471, 	"Especifique por favor un email address v·lido"
+2472, 	"Seleccione Su Paquete Deseado Del Acceso"
+2473, 	"DespuÈs"
+2474, 	"SI PAGA CON EFECTIVO Y CR…DITO: INSERTE EL EFECTIVO PRIMER\n"
+2475, 	"Para firmar Para arriba Para El Acceso de WIFI, Complete La InformaciÛn Abajo"
+2476, 	"Nombre Completo"
+2477, 	"EMail"
+2478, 	"Pregunta Secreta"
+2479, 	"Respuesta"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2480, 	"Su pregunta y respuesta secretas se utilizan en el acontecimiento que usted se olvida de su username o contraseÒa."
+2481, 	"Pago"
+2482, 	"Inserte Por favor El Efectivo Y/o Ahora Birle Su Tarjeta De CrÈdito"
+2483, 	"Total"
+2484, 	"CrÈdito"
+2485, 	"Permanezca"
+2486, 	"Complete por favor todo el campo requerido y aseg˙rese de que su username y contraseÒa sean caracteres del atleast 8 largos."
+2487, 	"Ese username es ya adentro uso. Seleccione por favor diverso."
+2488, 	"Error del acceso de base de datos. Por favor intento otra vez."
+2489, 	"Su compra era acertada. Usted puede ahora abrirse una sesiÛn con su username y contraseÒa."
+2490, 	"EnvÌe un recibo de la compra a mi direcciÛn del E-mail"
+2491, 	"InformaciÛn De la Tarjeta De CrÈdito"
+2492, 	"Es usted seguro usted desea cancelar? Ninguna pagos de efectivo que usted ha hecho no ser·n recuperable."
+2493, 	"NOTA: Impuestos aplicables no incluidos."
+2494, 	"Este paquete no est· disponible en este tiempo. Seleccione por favor otros."
+2495, 	"Usted debe seleccionar un paquete de antedicho para proceder."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2496, 	"InformaciÛn De la Compra De hi-Zone Wi-Fi "
+2497, 	"!Gracias para el hi-Zone Wi-Fi  que elige! Su informacion de la compra es incluida para sus expedientes por requerimiento."
+2498, 	"TransacciÛn #:"
+2499, 	"Un problema fue encontrado el crear de su cuenta. Llame por favor la ayuda de cliente para terminar su compra."
+2500, 	"Su username es inv·lido. Debe consistir en letras y n˙meros solamente, y sea un mÌnimo de ocho caracteres en longitud."
+2501, 	"Este quiosco no acepta pagos de efectivo"
+2502, 	"Este quiosco no acepta pagos de la tarjeta"
+2503, 	"Paquete inasequible. Este quiosco no se configura para aceptar efectivo o pagos de tarjeta de crÈdito."
+2504, 	"Incorpore sus primeros y pasados nombres completos"
+2505, 	"Incorpore su email address"
+2506, 	"Incorpore su username deseado. Debe ser caracteres del atleast ocho de largo"
+2507, 	"Incorpore su contraseÒa deseada. Debe ser caracteres del atleast ocho de largo"
+2508, 	"Incorpore su pregunta secreta aquÌ"
+2509, 	"Incorpore la respuesta a su pregunta secreta aquÌ"
+2510, 	"Usted debe firmar fuera de la sesiÛn actual del uso antes de que este uso pueda ser utilizado"
+2511, 	"Sus denominaciones del efectivo son:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2512, 	"øEs usted hecho de exploraciÛn de su documento?"
+2513, 	"El documento explorado no podÌa ser encontrado. Explore por favor sus documentos otra vez."
+2514, 	"El documento explorado no podÌa ser encontrado. Chasque por favor encendido el botÛn del ARCHIVO de la EXPLORACI”N para explorar sus documentos otra vez."
+2515, 	"N˙mero de fax inv·lido."
+2516, 	"El n˙mero de fax que usted incorporÛ no es un formato v·lido. Vuelva a entrar por favor su n˙mero de fax en el formato siguiente: 16132484867."
+2517, 	"Incorpore por favor el contenido de su p·gina de cubierta."
+2518, 	"°Apesadumbrado!!! Su peticiÛn no podÌa ser procesada. El anfitriÛn est· ocupado, intenta por favor su fax otra vez. LE NO CARGARON PARA ESTA TRANSACCI”N."
+2519, 	"El anfitriÛn est· ocupado, espera por favor mientras que recopilamos la informaciÛn sobre su fax"
+2520, 	"Espere por favor mientras que conectamos con el anfitriÛn."
+2521, 	"Su transacciÛn del fax fue cancelada seg˙n su peticiÛn."
+2522, 	"La transacciÛn no le fue encontrada por lo tanto puede no existir o pudo haber sido procesada ya. Compruebe las transacciones histÛricas para ver si se termina el fax. Si el fax no est· en los expedientes histÛricos, entonces la identificaciÛn de la transacciÛn no existe."
+2523, 	"°Apesadumbrado!!! Su tarjeta no podÌa ser procesada. Usted envÌa por telefax la transacciÛn fue cancelado."
+2524, 	"TraitÈe del est del solvabilitÈ de votre carte de degrÈ de del que de los tandis del svp de Attendez."
+2525, 	"Usted puede comprar m·s tiempo y enviar su fax otra vez."
+2526, 	"Su tenga crÈdito a enviar solamente"
+2527, 	"las p·ginas, pero su documento del fax contiene"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2528, 	"p·ginas. Su transacciÛn del fax fue cancelada."
+2529, 	"PreparaciÛn enviar su fax...."
+2530, 	"El fax contiene"
+2531, 	"page(s)."
+2532, 	"ser· cargado a su tarjeta. øProceda con enviar por telefax y mandar la cuenta la tarjeta de crÈdito?"
+2533, 	"Recopilar la informaciÛn sobre su fax"
+2534, 	"Proceso de su documento del fax"
+2535, 	"Su fax se ha sometido al ANFITRI”N. Si usted proveiÛ de nosotros una direcciÛn v·lida del E-mail usted recibir· un E-mail que confirma el recibo de su documento del fax tan pronto como se envÌe por telefax el documento."
+2536, 	"Espere por favor mientras que enviamos su fax."
+2537, 	"Su transmisiÛn del fax a"
+2538, 	"fue terminado con Èxito."
+2539, 	"est· en marcha."
+2540, 	"El conectar......"
+2541, 	"Espere por favor mientras que leemos su documento del fax. Dependiendo del n˙mero de p·ginas que usted lo est· enviando por telefax puede tomar pocos minutos."
+2542, 	"Espere por favor mientras que contamos las p·ginas en su documento del fax."
+2543, 	"Incapaz contar las p·ginas en su documento del fax. Intente por favor su fax otra vez."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2544, 	"Apesadumbrado para la inconveniencia. El ANFITRI”N est· OCUPADO. Intente por favor su fax otra vez."
+2545, 	"Lite"
+2546, 	"Empresa"
+2547, 	"Profesional"
+2548, 	"Sin registrar"
+2549, 	"Espere por favor mientras que se est· procesando su peticiÛn."
+2550, 	"°Error!!! Incapaz encontrar el archivo."
+2551, 	"adicional"
+2552, 	"carga"
+2553, 	"SU ESTADO DEL FAX:"
+2554, 	"Su fax a"
+2555, 	"era"
+2556, 	"terminado con Èxito"
+2557, 	"Sus opciones de la copia y del fax son dadas vuelta apagado por el administrador."
+2558, 	"Cantidad de efectivo divulgada quiosco:"
+2559, 	"Nombre Del Pasajero No encontrado"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2560, 	"Usted debe primero firmar fuera de su sesiÛn para obtener su informaciÛn sin hilos del acceso"
+2561, 	"Birle por favor su tarjeta del pasajero para conseguir su informaciÛn sin hilos de la cuenta."
+2562, 	"InformaciÛn Sin hilos De la Cuenta:"
+2563, 	"Nombre Del Usuario:"
+2564, 	"ContraseÒa:"
+2565, 	"Anote por favor su nombre y contraseÒa del usuario."
+2566, 	"Numero De Tarjeta"
+2567, 	"Exp. Fecha"
+2568, 	"Select"
+2569, 	"Acceso libre con la divulgaciÛn (lÌmite de tiempo)"
+2570, 	"Acceso libre con la divulgaciÛn (Tiempo ilimitado)"
+2571, 	"TÈrmino de sesiÛn Windows"
+2572, 	"Usted Debe Ser entrado Como Administrador"
+2573, 	"Modo Inv·lido Del Pago"
+2574, 	"M·quina Del Copy"
+2575, 	"Seleccione por favor B/W o color y el n˙mero de p·ginas que usted desea comprar. Entonces presione la compra."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2576, 	"Compre este n˙mero de p·ginas:"
+2577, 	"Precio por la p·gina de B/W:"
+2578, 	"Precio por la p·gina del color:"
+2579, 	"Compra Total:"
+2580, 	"Final"
+2581, 	"Fuente De papel"
+2582, 	"Alimentador De Documento"
+2583, 	"Cristal"
+2584, 	"Asegure El Admin"
+2585, 	"Asegure Limitado"
+2586, 	"ShellPro debe funcionar de una impulsiÛn local."
+2587, 	"Precio Por El Copy de B/W"
+2588, 	"Precio Por El Copy Del Color"
+2589, 	"Precio Por Fax"
+2590, 	"Balance de la p·gina demasiado bajo.  Por favor haga un pago."
+2591, 	"Esta acciÛn requerir· control de la cuenta de usuario ser inhabilitada. øContin˙e?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2592, 	"ImpresiÛn \n"
+2593, 	"Impresora \n"
+2594, 	"Nombre \n"
+2595, 	"Donde \n"
+2596, 	"Conductor \n"
+2597, 	"VersiÛn \n"
+2598, 	"Comentario \n"
+2599, 	"Gama de impresiÛn \n"
+2600, 	"Todos \n"
+2601, 	"P·ginas \n"
+2602, 	"De \n"
+2603, 	"Para \n"
+2604, 	"Copias \n"
+2605, 	"N˙mero de copias \n"
+2606, 	"Compagine \n"
+2607, 	"Papel \n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2608, 	"TamaÒo \n"
+2609, 	"Fuente \n"
+2610, 	"OrientaciÛn \n"
+2611, 	"Retrato \n"
+2612, 	"Paisaje \n"
+2613, 	"CancelaciÛn\n"
+2614, 	"Pre-Autorizado"
+2615, 	"øCierre todas las ventanas de hojeador?"
+2616, 	"***** EL QUIOSCO RECOMENZ” *****"
+2617, 	"*** Libres ***"
+2618, 	"MÌnimo comprado"
+2619, 	"Ponga por favor las originales CARA ARRIBA en el alimentador autom·tico situado en tapa o el explorador, despuÈs incorpore el n˙mero de p·ginas originales y las copias de cada uno que usted desea comprar. Presione la compra cuando est· listo."
+2620, 	"N˙mero de originales:"
+2621, 	" N˙mero de copias:"
+2622, 	"Encargado del archivo"
+2623, 	"Los archivos salvados aquÌ se suprimen despuÈs de cada sesiÛn cuando usted muestra-hacia fuera. FricciÛn del botÛn de ratÛn izquierdo - y - caiga PARA MOVER archivos. Controle la fricciÛn del botÛn de ratÛn izquierdo - y - caen PARA COPIAR archivos."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2624, 	"Este tipo de archivo no se apoya.\n"
+2625, 	"No se selecciona ninguÃ n archivo.\n"
+2626, 	"El uso asociado requerido no est· instalado."
+2627, 	"Esta versiÛn no puede abrir archivos de XLSX."
+2628, 	"Esta versiÛn no puede abrir archivos de DOCX."
+2629, 	"Servicios de la oficina"
+2630, 	"Haga las copias\n"
+2631, 	"Explore al email\n"
+2632, 	"ExploraciÛn al fax \n"
+2633, 	"ExploraciÛn al USB \n"
+2634, 	"ImpresiÛn del USB\n"
+2635, 	"Comience encima\n"
+2636, 	"3. COMIENZO \n"
+2637, 	"4. COMPRA \n"
+2638, 	"AvanzadoÖ\n"
+2639, 	"1. SELECCIONE EL SERVICIO\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2640, 	"2. AJUSTES \n"
+2641, 	"TASACI”N:\n"
+2642, 	"4. AUTORICE LA COMPRA\n"
+2643, 	"UÒas del pulgar:\n"
+2644, 	"P·gina llena:\n"
+2645, 	"Proceso - espere por favor "
+2646, 	"Copias"
+2647, 	"Email "
+2648, 	"Fax"
+2649, 	"USB"
+2650, 	"ImpresiÛn"
+2651, 	"ImpresiÛn:"
+2652, 	"Copiado:\n"
+2653, 	"ExploraciÛn:"
+2654, 	"Fax:"
+2655, 	"TamaÒo de p·gina:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2656, 	"# Copias:"
+2657, 	"Email address:\n"
+2658, 	"Fax #:"
+2659, 	"ImpulsiÛn \\ nombre de fichero del USB"
+2660, 	"# Originales:"
+2661, 	"Precio por la p·gina:"
+2662, 	"Compra Total:"
+2663, 	"La revisiÛn despuÈs autoriza la compra, comienza otra vez o cerca"
+2665, 	"ResoluciÛn:"
+2666, 	"Si le satisfacen despuÈs de repasar las im·genes exploradas, chasque el botÛn de la compra del autorizar para terminar el servicio."
+2667, 	"Chasque el botÛn de la sesiÛn del reajuste para desechar estas im·genes y para comenzar otra vez."
+2668, 	"Chasque el botÛn cercano para cerrar el uso de servicios de la oficina."
+2669, 	"Esto despejar· todos los ajustes. øContin˙e?\n"
+2670, 	"Ponga su documento CARA ARRIBA en el alimentador de documento del explorador. øContin˙e?\n"
+2671, 	"Esto TERMINAR¡ el servicio e incurrir· en la cantidad total de la compra. øContin˙e?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2672, 	"°Mantenga COMPLETO!"
+2673, 	"Informe del fax del email a mÌ"
+2674, 	"DirecciÛn:"
+2675, 	"Incapaz de procesar las p·ginas exploradas para su fax. Comience por favor otra vez y pre-explore el documento."
+2676, 	"Un error ocurriÛ mientras que procesaba su fax. Revise por favor."
+2677, 	"4. AUTORICE la COMPRA - haga las copias"
+2678, 	"4. AUTORICE LA COMPRA - exploraciÛn al email\n"
+2679, 	"4. AUTORICE LA COMPRA - FAX "
+2680, 	"4. AUTORICE LA COMPRA - exploraciÛn al USB "
+2681, 	"Formato"
+2682, 	"EspecificaciÛn de archivo inv·lida."
+2683, 	"Un error ocurriÛ mientras que copiaba este archivo. Revise por favor."
+2684, 	"El proceso es alrededor comenzar. øContin˙e?"
+2685, 	"La exploraciÛn fue cancelada por el usuario. Reajuste del tecleo a comenzar otra vez. "
+2686, 	"4. AUTORICE la COMPRA - impresiÛn del USB"
+2687, 	"Un error ocurriÛ mientras que impresiÛn este archivo. Revise por favor."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2688, 	"Su equilibrio es escaso para terminar esta compra. "
+2689, 	"Acepte:"
+2690, 	"P·ginas pedidas:"
+2691, 	"Coste: "
+2692, 	"Imprimir:"
+2693, 	"Sitio #:"
+2694, 	"øHojeador cercano?"
+2695,   "Introduzca el cÛdigo de acceso para aumentar la cancelaciÛn disponible del balance o del tecleo a la salida"
+2696, 	"ID DueÒo/CombinaciÛn de ValidaciÛn no v·lida..."
+2697, 	"Este CÛdigo de Acceso no fue encontrado."
+2698,   "no tiene ninguÃÅn equilibrio disponible."
+2699,   "°Este cÛdigo de acceso es actualmente funcionando!"
+2700,   "Gire 90∞"
+2701,   "Foto Viewer"
+2702,   "InspecciÛn previo"
+2703,   "Error que exhibe la inspecciÛn previo de impresiÛn"
+2704, 	"Balance de la p·gina demasiado bajo."
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+2705,   "La contraseÒa es inv·lida."
+2706,   "Incorpore la contraseÒa:"
+2707, 	"p·ginas no fueron impresas."
+2708,   "Hay uno o varios trabajos de impresiÛn en cola. Dejar de fumar ahora puede eliminarlos."
+2709,   "Web Browser Popup"
+2710,   "Esta aplicaciÛn requiere acceso a nivel superior"
+2711,   "ImpresiÛn libre no est· permitida en "
+2712,   "Intentarlo de nuevo y seleccione"
+2713,   "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}

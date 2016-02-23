@@ -1,0 +1,821 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+100, 	"English"
+101, 	"Problem reading incoming data from the magnetic card reader."
+102, 	"An error with the serial port was detected. Error code: "
+103, 	"Bill acceptor JAMMED"
+104, 	"Bill acceptor FULL"
+105, 	"Cash Acceptor Failure"
+106, 	"A problem occurred..."
+107, 	"Operation cancelled."
+108, 	"A problem occurred while retrieving your balance..."
+109, 	"Initializing PC with release"
+110, 	"Next scheduled daily maintenance:"
+111, 	"An error with the serial port was detected. Error code: "
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+112, 	"Page File:"
+113, 	"Memory Available:"
+114, 	"Register"
+115, 	"Invalid User Name/Password..."
+116, 	"Your time has expired..."
+117, 	"This Access Code is either already in use or locked. Minutes left before it is unlocked:"
+118, 	"This account has expired."
+119, 	"Make a payment while this message is displayed to recharge your current Account."
+120, 	"Your card could not be read - please try again"
+121, 	"This type of card is not accepted..."
+122, 	"Payments not required"
+123, 	"Not a valid card..."
+124, 	"Card expired..."
+125, 	"Minimum"
+126, 	"Continue"
+127, 	"Sorry, the purchase could not be processed."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+128, 	"Performing daily maintenance..."
+129, 	"Daily download/execute completed successfully."
+130, 	"Problem daily download/execute - "
+131, 	"Daily registry update completed successfully."
+132, 	"Problem daily registry update - "
+133, 	"Next scheduled daily maintenance:"
+134, 	"Access Code:"
+135, 	"Clear"
+136, 	"User Name:"
+137, 	"Password:"
+138, 	"Sign In"
+139, 	"Menu"
+140, 	"Sign Out"
+141, 	"Tab"
+142, 	"Caps"
+143, 	"Shift"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+144, 	"Enter"
+145, 	"Hide On-Screen Keyboard"
+146, 	"Display On-Screen Keyboard"
+147, 	"Space"
+148, 	"Your Access Code was not found in the database..."
+150, 	"Problem accessing the database..."
+151, 	"Invalid registration number."
+152, 	"This registration number is already in use."
+153, 	"You must purchase an upgrade before registering the installed version."
+154, 	"***** Start of a new log file *****"
+155, 	"Kiosk ID"
+156, 	"Starting Access Code usage"
+157, 	"for access code:"
+158, 	"Starting Access Code usage #:"
+159, 	"Starting Free usage"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+160, 	"Starting usage with database unavailable"
+161, 	"Starting usage"
+162, 	"Payment #:"
+163, 	"Ending usage #:"
+164, 	"for access code:"
+165, 	"Minutes:"
+166, 	"Pages:"
+167, 	"Ending free usage"
+168, 	"Ending usage with database unavailable"
+169, 	"Amount:"
+170, 	"Ending usage"
+171, 	"The transaction was declined..."
+172, 	"This PC will restart in"
+173, 	"seconds..."
+174, 	"Sorry, this function is not supported for security reasons..."
+175, 	"Maximum number of windows exceeded."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+178, 	"Primary Connection"
+179, 	"Secondary Connection"
+180, 	"Connected to"
+181, 	"The connection was cancelled."
+182, 	"The connection could not be re-established. Please try later."
+183, 	"Take note of your Access Code for future use:"
+184, 	"Last rebooted (in hours):"
+185, 	"Credit Cards"
+186, 	"Cash Payments"
+187, 	"Total payments since the last log file:"
+189, 	"Log File"
+190, 	"Problem sending Log:"
+191, 	"ERROR"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+192, 	"Problem terminating usage:"
+193, 	"Disconnecting from"
+194, 	"Disconnecting..."
+195, 	"Application started:"
+196, 	"Web Browser"
+197, 	"Video Email"
+198, 	"SpreadSheet"
+199, 	"Word Processor"
+200, 	"Send Photos"
+201, 	"Messenger"
+202, 	"Send Email"
+203, 	"Receive Email"
+204, 	"Problem accessing the credit card processor."
+205, 	"Visa"
+206, 	"MC"
+207, 	"Amex"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+208, 	"Diners"
+209, 	"Discover"
+210, 	"Processing payment:"
+211, 	"Type:"
+212, 	"E-mail Address:"
+213, 	"Purchase"
+214, 	"Thank you."
+215, 	"Receipt"
+216, 	"Please take your receipt..."
+217, 	"Problem processing credit card payment"
+218, 	"Cash"
+219, 	"was already used - your Sign-In Name is"
+220, 	"The transaction was cancelled."
+221, 	"A problem occurred while processing the payment."
+222, 	"Your account could not be created. You may still use the computer."
+223, 	"Your account could not be updated."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+224, 	"Document printed with the following number of pages:"
+225, 	"Jan"
+226, 	"Feb"
+227, 	"Mar"
+228, 	"Apr"
+229, 	"May"
+230, 	"Jun"
+231, 	"Jul"
+232, 	"Aug"
+233, 	"Sep"
+234, 	"Oct"
+235, 	"Nov"
+236, 	"Dec"
+237, 	"Sun"
+238, 	"Mon"
+239, 	"Tue"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+240, 	"Wed"
+241, 	"Thu"
+242, 	"Fri"
+243, 	"Sat"
+244, 	"Please wait..."
+245, 	"Account Creation"
+246, 	"If you wish to use your balance at a future time, specify a user name and password below then click on the Continue button. Click on the Cancel button otherwise."
+247, 	"Sign-In Name:"
+248, 	"Re-enter password:"
+249, 	"Must be at least four (4) characters long."
+250, 	"Cancel"
+251, 	"Connecting..."
+252, 	"Verifying password..."
+253, 	"Disconnected"
+254, 	"File Selection"
+255, 	"File Name:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+256, 	"Insert a disk in one of the available drive(s) then click on the button representing that drive."
+257, 	"Open"
+258, 	"Save"
+259, 	"Attach File"
+260, 	"Ok"
+261, 	"Yes"
+262, 	"No"
+263, 	"Windows Messenger needs to be installed"
+264, 	"Operation failed."
+265, 	"You must first select someone with whom you wish to chat."
+266, 	"Connected"
+267, 	"Start Chat"
+268, 	"Close"
+269, 	"Sorry, this computer does not allow the use of drives."
+270, 	"Sending message..."
+271, 	"SMTP Server not specified."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+272, 	"Make sure you have at least one recipient and a valid return address..."
+273, 	"Problem sending your message..."
+274, 	"Your message has been sent."
+275, 	"Your Name:"
+276, 	"Return Address:"
+277, 	"To:"
+278, 	"CC:"
+279, 	"Subject:"
+280, 	"Send"
+281, 	"You must select at least one image."
+282, 	"Select All"
+283, 	"Clear All"
+284, 	"Send Selected Pictures"
+285, 	"Stop"
+287, 	"Required information:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+288, 	"First Name:"
+289, 	"Last Name:"
+290, 	"Street #:"
+291, 	"Zip Code:"
+292, 	"per minute"
+293, 	"per page"
+294, 	"Purchase Amount:"
+295, 	"Email receipt"
+296, 	"Account Information"
+297, 	"Previous"
+298, 	"Amount received:"
+299, 	"Purchase"
+300, 	"Receive"
+301, 	"Extra"
+302, 	"Enter the setup password below to prevent the reboot."
+303, 	"This computer will restart in"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+306, 	"Registration #:"
+307, 	"You need to restart your computer before you can register"
+308, 	"Free Access With Timer"
+309, 	"Free Access Without Timer"
+310, 	"Prepaid Minutes and Pages"
+311, 	"Prepaid Minutes (Printing Charged as Minutes)"
+312, 	"Prepaid Amount"
+313, 	"Pay for Time/Printing Used (Display Min/Pages)"
+314, 	"Pay for Time/Printing Used (Display Min/Pages/Amount)"
+315, 	"Cyber Cafe"
+316, 	"Volume:"
+317, 	"Maximum:"
+318, 	"Default:"
+319, 	"Printer"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+320, 	"Available"
+322, 	"Apply"
+323, 	"Current:"
+324, 	"Previous:"
+325, 	"Collected By:"
+326, 	"By:"
+327, 	"Apply"
+328, 	"Cash Collection"
+329, 	"Query"
+330, 	"Reboot in Secure Mode"
+331, 	"Reboot to Desktop"
+332, 	"Shutdown"
+333, 	"Go To Desktop"
+334, 	"Back to Kiosk"
+335, 	"Unregister"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+336, 	"Loading configuration..."
+337, 	"This drive is not valid for the users"
+338, 	"Not a valid directory..."
+339, 	"A problem occurred while saving your document:"
+340, 	"Document not saved.  Save now?"
+341, 	"Save As"
+342, 	"Print"
+346, 	"Capture Completed."
+347, 	"Audio not available."
+348, 	"Record"
+349, 	"Play"
+350, 	"Take Picture"
+351, 	"Send"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+357, 	"seconds - you can replay or re-record your video"
+358, 	"Position yourself in front of the camera"
+359, 	"Click on Record to film your video"
+360, 	"Click on Send to send your video"
+362, 	"Position yourself in front of the camera and take a picture"
+365, 	"Select a Postcard"
+367, 	"Location:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+368, 	"Go"
+369, 	"Home"
+370, 	"Back"
+371, 	"Forward"
+372, 	"Refresh"
+373, 	"Font Size"
+374, 	"Search"
+375, 	"New Tab"
+376, 	"Click here to return to the main menu"
+377, 	"Your available balance is too low to print this document in full"
+378, 	"Sorry, this site is not allowed."
+379, 	"This local file does not exist..."
+380, 	"Sorry, this drive is not available..."
+381, 	"already exists. Do you want to replace it?"
+382, 	"Do you really want to quit?"
+383, 	"Codec's missing"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+384, 	"No video camera found"
+385, 	"Price Per Minute: "
+386, 	"Price Per Page: "
+387, 	"Minimum Card Payment: "
+388, 	"Minimum Cash Payment: "
+389, 	"Are you sure you want to reboot in secure mode?"
+390, 	"Are you sure you want to unregister?"
+391, 	"Your computer will now shut down.  Continue?"
+392, 	"Your computer will now reboot. Continue?"
+393, 	"You may not have enough time left in your session to send this email. Continue anyway?"
+394, 	"Top:"
+395, 	"Left:"
+396, 	"Width:"
+397, 	"Height:"
+398, 	"Copy"
+399, 	"Paste"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+400, 	"Cut"
+401, 	"No Change"
+402, 	"Shrink to smallest"
+403, 	"Grow to largest"
+404, 	"Left sides"
+405, 	"Center"
+406, 	"Right sides"
+407, 	"Space equally"
+408, 	"Tops"
+409, 	"Bottoms"
+410, 	"Thank you"
+411, 	"Files 'saved' here are deleted after each session when you sign-out"
+412, 	"Restore Points"
+413, 	"Restore"
+414, 	"This will overwrite your current configuration. Continue?"
+415, 	"This will overwrite the selected Restore Point. Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+416, 	"This will make changes in the database - continue?"
+417, 	"is already taken - your user name is"
+418, 	"View groups of 12 pictures - each group requires a separate email. Click on a picture to select or unselect"
+419, 	"All selected photos will be compressed to a 640x480 pixels, 32 K, JPEG format"
+423, 	"Skip Account Creation"
+424, 	"This message has not been sent yet and will be lost. Continue?"
+425, 	"Appear offline"
+426, 	"Send Postcards"
+427, 	"Restore point created."
+428, 	"New configuration applied."
+429, 	"The following Registration # is now available:"
+430, 	"Pages printed:"
+431, 	"Time will be deducted from your balance for each page printed. Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+432, 	"Printing"
+433, 	"Spelling"
+434, 	"pages were not printed. Please make a payment."
+435, 	"Security Code"
+436, 	"Printing is not allowed from this site"
+437, 	"Select Option:"
+438, 	"Price per Copy:"
+439, 	"Price per Fax:"
+440, 	"Copy"
+441, 	"Fax"
+442, 	"Copies selected for the MFP:"
+443, 	"Faxes selected for the MFP:"
+444, 	"Sending email from the mail client of this kiosk is not allowed."
+445, 	"Please make your copies/fax now. Click on OK when done."
+446, 	"Please call Customer Service to activate your Copy/Fax license"
+447, 	"Connecting to Card Services..."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+449, 	"Transaction Approved"
+450, 	"CASH COLLECTION REPORT"
+451, 	"Kiosk ID:"
+452, 	"Station Name:"
+453, 	"Date:"
+454, 	"Time:"
+455, 	"Technician Name:"
+456, 	"Database reported cash amount:"
+457, 	"Technician reported cash amount:"
+458, 	"E-mailing cash collection report failed."
+459, 	"Please make sure the multifunction unit is powered on, in read mode and has sufficent paper and supplies."
+460, 	"File Transfer"
+461, 	"File:"
+462, 	"Progress:"
+463, 	"Do you want to open or save this file?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+464, 	"The changes you have requested, require NetStop to be restarted. Apply changes and restart?"
+465, 	"Only one copy per print job is permitted. Should you wish to print additional copies, press the print button again."
+466, 	"You are attempting to open a PDF file from a secure website. Please be advised that this file may not be displayed correctly. "
+467, 	"Printer not found. Contact your administrator."
+468, 	"hi-Zone Wi-Fi "
+469, 	"Messenger is currently trying to end a previous session. Please wait 30 seconds and try again."
+470, 	"Could not retrieve package information."
+471, 	"Please specify a valid email address"
+472, 	"Select Your Desired Access Package"
+473, 	"Next"
+474, 	"IF PAYING WITH BOTH CASH AND CREDIT: INSERT CASH FIRST"
+475, 	"To Sign Up For WIFI Access, Fill In The Information Below"
+476, 	"Full Name"
+477, 	"E-Mail"
+478, 	"Secret Question"
+479, 	"Answer"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+480, 	"Your Secret Question and Answer are used in the event you forget your username or password."
+481, 	"Payment"
+482, 	"Please Insert Cash And/Or Swipe Your Credit Card Now"
+483, 	"Total"
+484, 	"Credit"
+485, 	"Remain"
+486, 	"Please fill in all field required and ensure that your username and password are atleast 8 characters long."
+487, 	"That username is already in use. Please select a different one."
+488, 	"Database access error. Please try again."
+489, 	"Your purchase was successful. You may now log in with your username and password."
+490, 	"Send a purchase receipt to my e-mail address"
+491, 	"Credit Card Information"
+492, 	"Are you sure you want to cancel? Any cash payments you have made will not be recoverable."
+493, 	"NOTE: Applicable taxes not included."
+494, 	"This package is not available at this time. Please select another."
+495, 	"You must select a package from above in order to proceed."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+496, 	"hi-Zone Wi-Fi Purchase Information"
+497, 	"Thankyou for choosing hi-Zone Wi-Fi ! Your purchase information is enclosed for your records as requested."
+498, 	"Transaction #:"
+499, 	"A problem was encountered creating your account. Please call customer support to complete your purchase."
+500, 	"Your username is not valid. It must consist of letters and numbers only, and be a minimum of eight characters in length."
+501, 	"This kiosk does not accept cash payments"
+502, 	"This kiosk does not accept card payments"
+503, 	"Package unavailable. This kiosk is not configured to accept cash or credit card payments."
+504, 	"Enter your full first and last names"
+505, 	"Enter your email address"
+506, 	"Enter your desired username. It must be atleast eight characters long"
+507, 	"Enter your desired password. It must be atleast eight characters long"
+508, 	"Enter your secret question here"
+509, 	"Enter the answer to your secret question here"
+510, 	"You must sign out of the current usage session before this application may be used"
+511, 	"Your Cash Denominations are:   "
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+512, 	"Are you done scanning your document?"
+513, 	"The Scanned document could not be found. Please scan your documents again."
+514, 	"The Scanned document could not be found. Please click on the SCAN FILE button to scan your documents again."
+515, 	"Invalid fax number."
+516, 	"The fax number you entered is not a valid format. Please re-enter your fax number in the following format: 16132484867."
+517, 	"Please enter the contents of your cover page."
+518, 	"Sorry !!! Your request could not be processed. The host is busy, please try your fax again. YOU WERE NOT CHARGED FOR THIS TRANSACTION."
+519, 	"Host is busy, Please wait while we gather information about your fax"
+520, 	"Please wait while we connect to the host."
+521, 	"Your fax transaction was cancelled as per your request."
+522, 	"The Transaction was not found therefore it may not exist or it may have been processed already. Check the historical transactions to see if the fax is completed. If the fax is NOT in the historical records, then the transaction ID does not exist."
+523, 	"Sorry !!! Your card could not be processed. You fax transaction was cancelled."
+525, 	"You can purchase more time and send your fax again."
+526, 	"Your have credit to send only "
+527, 	"pages, but your fax document contains "
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+528, 	" pages. Your fax transaction was cancelled. "
+529, 	"Preparing to send your fax...."
+530, 	"The fax contains"
+531, 	"page(s)."
+532, 	" will be charged to your card. Proceed with faxing and billing the credit card?"
+533, 	"Gathering information about your fax"
+534, 	"Processing your fax document"
+535, 	"Your fax has been submitted to the HOST. If you provided us with a valid e-mail address you will receive an e-mail confirming the receipt of your fax document as soon as the document is faxed."
+536, 	"Please wait while we send your fax."
+537, 	"Your fax transmission to"
+538, 	"was successfully completed."
+539, 	"is in progress."
+540, 	"Connecting ......"
+541, 	"Please wait while we read your fax document. Depending on the number of pages you are faxing it may take few minutes."
+542, 	"Please wait while we count the pages in your fax document."
+543, 	"Unable to count the pages in your fax document. Please try your fax again."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+544, 	"Sorry for the inconvenience. The HOST is BUSY. Please try your fax again."
+545, 	"Lite"
+546, 	"Enterprise"
+547, 	"Professional"
+548, 	"UNREGISTERED"
+549, 	"Please wait while your request is being processed."
+550, 	"Error!!! Unable to find the file."
+551, 	"additional"
+552, 	"charge"
+553, 	"YOUR FAX STATUS:"
+554, 	"Your fax to"
+555, 	" was "
+556, 	"completed successfully"
+557, 	"Your copy and fax options are turned off by the administrator."
+558, 	"Kiosk reported cash amount:"
+559, 	"Passenger Name Not Found"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+560, 	"You must first sign out of your session to obtain your wireless access information"
+561, 	"Please swipe your passenger card in order to get your wireless account information."
+562, 	"Wireless Account Information:"
+563, 	"User Name:"
+564, 	"Password:"
+565, 	"Please write down your user name and password."
+566, 	"Card Number"
+567, 	"Exp. Date"
+568, 	"Select"
+569, 	"Free Access with Reporting (Time Limit)"
+570, 	"Free Access with Reporting (Unlimited Time)"
+571, 	"Log Off Windows"
+572, 	"You Must Be Logged On As An Administrator"
+573, 	"Invalid Payment Mode"
+574, 	"Copy Machine"
+575, 	"Please Select B/W or Color and the number of \npages you wish to buy. Then press purchase."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+576, 	"Enter Total Pages to Output: (Originals X Copies Each)"
+577, 	"Price per B/W Page:"
+578, 	"Price per Color Page:"
+579, 	"Total Purchase:"
+580, 	"Finish"
+581, 	"Paper Source"
+582, 	"Document Feeder"
+583, 	"Glass"
+584, 	"Secure Admin"
+585, 	"Secure Limited"
+586, 	"ShellPro must be running from a local drive."
+587, 	"Price Per B/W Copy"
+588, 	"Price Per Color Copy"
+589, 	"Price Per Fax"
+590, 	"Available balance is not enough to print this document.  Please make a payment."
+591, 	"This Action Will Require User Account Control To Be Disabled. Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+592, 	"Print\n"
+593, 	"Printer"
+594, 	"Name"
+595, 	"Where"
+596, 	"Driver"
+597, 	"Version"
+598, 	"Comment"
+599, 	"Print Range"
+600, 	"All"
+601, 	"Pages"
+602, 	"From"
+603, 	"To"
+604, 	"Copies"
+605, 	"Number of Copies"
+606, 	"Collate"
+607, 	"Paper"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+608, 	"Size"
+609, 	"Source"
+610, 	"Orientation"
+611, 	"Portrait"
+612, 	"Landscape"
+613, 	"Cancel"
+614, 	"Pre-Authorized"
+615, 	"Close all browser windows?"
+616, 	"***** KIOSK RESTARTED *****"
+617, 	"*** Free ***"
+618, 	"Minimum Purchased"
+619, 	"Please place originals FACE UP on the automatic feeder located on top or the scanner, then enter the number of original pages and copies of each you wish to buy.  Press purchase when ready."
+620, 	"Number of originals:"
+621, 	"Number of Copies:"
+622, 	"File Manager"
+623, 	"Files saved here are deleted after each session when you sign-out.  Left mouse button drag and drop to MOVE file(s).  Control left mouse button drag and drop to COPY file(s)."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+624, 	"This file type is NOT supported."
+625, 	"NO file selected."
+626, 	"The required associated application is not installed."
+627, 	"This version cannot open XLSX Files."
+628, 	"This version cannot open DOCX Files."
+629, 	"Office Services"
+630, 	"Make Copies"
+631, 	"Scan to E-Mail"
+632, 	"Scan to Fax"
+633, 	"Scan to USB"
+634, 	"Print from USB"
+635, 	"Start Over"
+636, 	"3. START"
+637, 	"4. PURCHASE"
+638, 	"Advanced..."
+639, 	"1. SELECT SERVICE"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+640, 	"2. SETTINGS"
+641, 	"PRICING:"
+642, 	"4. AUTHORIZE PURCHASE"
+643, 	"Thumbnails:"
+644, 	"Full Page:"
+645, 	"Processing - Please Wait..."
+646, 	"Copies"
+647, 	"EMail"
+648, 	"Fax"
+649, 	"USB"
+650, 	"Print"
+651, 	"Printing:"
+652, 	"Copying:"
+653, 	"Scanning:"
+654, 	"Fax:"
+655, 	"Page Size:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+656, 	"# Copies:"
+657, 	"E-Mail Address:"
+658, 	"Fax #:"
+659, 	"USB Drive\\Filename"
+660, 	"# Originals:"
+661, 	"Price Per Page:"
+662, 	"Total Purchase:"
+663, 	"Review then Authorize Purchase, Start Again\n or Close"
+665, 	"Resolution:"
+666, 	"If you are satisfied after reviewing the scanned images,  Click the Authorize Purchase button to complete the service."
+667, 	"Click the Reset Session button to discard these images and to start again."
+668, 	"Click the Close button to close the Office Services application."
+669, 	"This will clear all settings.  Continue?"
+670, 	"Place your document FACE UP in the Scanner document feeder.  Continue?"
+671, 	"This will COMPLETE the Service and incur the Total Purchase amount.  Continue?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+672, 	"Service COMPLETE!"
+673, 	"E-Mail fax report to me"
+674, 	"Address:"
+675, 	"Unable to process the scanned pages for your fax.  Please start again and rescan the document."
+676, 	"An error occured while processing your fax.  Please retry."
+677, 	"4. AUTHORIZE PURCHASE - Make Copies "
+678, 	"4. AUTHORIZE PURCHASE - Scan to E-Mail "
+679, 	"4. AUTHORIZE PURCHASE - FAX "
+680, 	"4. AUTHORIZE PURCHASE - Scan to USB "
+681, 	"Format:"
+682, 	"Invalid file specification."
+683, 	"An error occured while copying this file.  Please retry."
+684, 	"Processing is about to begin.  Continue?"
+685, 	"Scanning was cancelled by the user.  Click Reset to begin again."
+686, 	"4. AUTHORIZE PURCHASE - Print From USB "
+687, 	"An error occured while printing this file.  Please retry."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+688, 	"Your balance is insufficient to complete this purchase."
+689, 	"Accept:"
+690, 	"Pages Requested:"
+691, 	"Cost:"
+692, 	"Print:"
+693, 	"Room #:"
+694, 	"Close Browser?"
+695,    "Enter Access Code to increase the Available Balance or Click Cancel to Exit"
+696, 	"Owner ID/Validation combination not valid..."
+697, 	"This Access Code was not found."
+698,    "has no balance available."
+699,    "This Access Code is currently in use!"
+700,    "Rotate 90°"
+701,    "Photo Viewer"
+702,    "Preview"
+703,    "Error displaying Print Preview"
+704, 	"Available balance is not enough to print this document."
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+705, 	"Password is Invalid!"
+706,    "Enter Zip File Password:"
+707, 	"pages were not printed."
+708,    "There are one or more print jobs in queue.  Quitting now will delete them."
+709,    "Web Browser Popup"
+710,    "This application requires Premium level access."
+711,    "Free printing is not allowed on "
+712,    "Try again and select"
+713,    "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}
+

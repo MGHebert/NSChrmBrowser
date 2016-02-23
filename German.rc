@@ -1,0 +1,822 @@
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3100, 	"Deutsch"
+3101, 	"Ein Problem beim Lesen der Daten des Magnetkarten Lesers ist aufgetreten."
+3102, 	"Ein Fehler mit der seriellen Schnittstelle ist aufgetreten. Fehlercode: "
+3103, 	"Banknotenleser verstopft"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3104, 	"Banknotenleser voll"
+3105, 	"Bargeld Annahmegerät fehlerhaft"
+3106, 	"Ein Problem ist aufgetreten..."
+3107, 	"Aktion abgebrochen."
+3108, 	"Ein Problem beim Wiederfinden Ihres Saldos ist aufgetreten..."
+3109, 	"Kiosk wird gestartet mit Software Version..."
+3110, 	"Nächste planmässige, tägliche Wartung:"
+3111, 	"Ein Fehler mit der seriellen Schnittstelle ist aufgetreten. Fehlercode: "
+3112, 	"Page File:"
+3113, 	"Speicher verfügbar:"
+3114, 	"Registrieren"
+3115, 	"Ungültiger Benutzername oder Passwort..."
+3116, 	"Ihre Zeit ist abgelaufen..."
+3117, 	"Dieser Benutzercode ist entweder schon in Verwendung oder gesperrt. Verbleibende Zeit bis zum entsperren:"
+3118, 	"Dieses Benutzerkonto ist abgelaufen."
+3119, 	"Um Ihr Konto aufzuladen, bezahlen Sie während diese Nachricht angezeigt wird."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3120, 	"Ihre Karte konnte nicht gelesen werden - bitte versuchen Sie es nochmals."
+3121, 	"Dieser Kartentyp wird nicht angenommen..."
+3122, 	"Zahlung nicht notwendig."
+3123, 	"Keine gültige Karte..."
+3124, 	"Karte abgelaufen...."
+3125, 	"Minimum"
+3126, 	"Weiter"
+3127, 	"Leider konnte die Transaktion nicht durchgeführt werden."
+3128, 	"Verrichte tägliche Wartung..."
+3129, 	"Täglicher Download und Installation erfolgreich abgeschlossen."
+3130, 	"Problem beim täglichen Download/Installation - "
+3131, 	"Tägliches Registy update erfolgreich abgeschlossen."
+3132, 	"Problem beim täglichen Registy update - "
+3133, 	"Nächste planmässige, tägliche Wartung:"
+3134, 	"Zugangs Code:"
+3135, 	"Löschen"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3136, 	"Benutzer Name:"
+3137, 	"Passwort:"
+3138, 	"Anmelden"
+3139, 	"Menü"
+3140, 	"Abmelden"
+3141, 	"Tab"
+3142, 	"Caps"
+3143, 	"Shift"
+3144, 	"Enter"
+3145, 	"On-Screen Keyboard nicht anzeigen"
+3146, 	"On-Screen Keyboard anzeigen"
+3147, 	"Leerraum"
+3148, 	"Ihr Zugangscode konnte in der Datenbank nicht gefunden werden..."
+3150, 	"Problem beim Zugriff auf die Datenbank..."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3153, 	"Sie müssen zuerst ein Upgrade erwerben,bevor Sie die installierte Version registrieren können."
+3154, 	"***** Start eines neuen Log files *****"
+3155, 	"Kiosk ID"
+3156, 	"Beginn der Zugangs Code Verwendung"
+3157, 	"mit Zugangs Code Nummer:"
+3158, 	"Beginn der Zugangs Code Verwendung #:"
+3159, 	"Beginn der kostenlosen Verwendung"
+3160, 	"Start der Benutzung mit nicht verfügbarer Datenbank."
+3161, 	"Starte Benutzung"
+3162, 	"Zahlung #:"
+3163, 	"Ende der Benutzung #:"
+3164, 	"für Zugangs Code:"
+3165, 	"Minuten:"
+3166, 	"Seiten:"
+3167, 	"Ende der kostenlosen Verwendung"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3168, 	"Ende der Benutzung mit nicht verfügbarer Datenbank."
+3169, 	"Betrag:"
+3170, 	"Ende der Benutzung"
+3171, 	"Die Transaktion wurde abgelehnt..."
+3172, 	"Dieser Kiosk wird neu gestartet in"
+3173, 	"Sekunden..."
+3174, 	"Diese Funktion ist aus Sicherheitsgründen leider nicht zulässig..."
+3175, 	"Maximale Anzahl von (geöffneten) Fenstern wurde überschritten."
+3176, 	"Ungültige Registriernummer."
+3177, 	"Die folgende Registriernummer ist jetzt verfügbar:"
+3178, 	"Primäre Verbindung"
+3179, 	"Sekundäre Verbindung"
+3180, 	"Verbunden mit"
+3181, 	"Die Verbindung wurde getrennt."
+3182, 	"Die Verbindung konnte nicht wieder hergestellt werden. Bitte probieren Sie es später nochmals."
+3183, 	"Notieren Sie Ihren Benutzercode um ein anderes Mal weiter surfen zu können."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3184, 	"Letzter Reboot (in Stunden):"
+3185, 	"Kredit Karten"
+3186, 	"Barzahlungen"
+3187, 	"Gesamtzahlungen seit dem letzten Log File:"
+3189, 	"Log File"
+3190, 	"Probleme beim Senden von Log:"
+3191, 	"ERROR"
+3192, 	"Probleme beim Beenden der Verwendung:"
+3193, 	"Getrennt von "
+3194, 	"Trennen..."
+3195, 	"Anwendung gestartet:"
+3196, 	"Web Browser"
+3197, 	"Video Email"
+3198, 	"Tabellenkalkulation"
+3199, 	"Editor"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3200, 	"Photo Senden"
+3201, 	"Messenger"
+3202, 	"Email senden"
+3203, 	"Email empfangen"
+3204, 	"Problem beim Zugriff auf den Kredit Karten Processor."
+3205, 	"Visa"
+3206, 	"MC"
+3207, 	"Amex"
+3208, 	"Diners"
+3209, 	"Discover"
+3210, 	"Zahlung wird durchgeführt:"
+3211, 	"Type:"
+3212, 	"E-mail Addresse:"
+3213, 	"Kauf"
+3214, 	"Vielen Dank."
+3215, 	"Rechnung"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3216, 	"Bitte entnehmen Sie Ihre Rechnung..."
+3217, 	"Probleme bei der Zahlung mit Kredit Karte aufgetreten"
+3218, 	"Bar"
+3219, 	"ist schon in Verwendung- Ihr Benutzername ist"
+3220, 	"Vorgang abgebrochen."
+3221, 	"Ein Problem während der Bezahlung ist aufgetreten."
+3222, 	"Ihr Konto konnte nicht eingerichtet werden. Sie können das Terminal jedoch weiter benutzen."
+3223, 	"Ihr Konto konnte nicht aufgeladen werden."
+3224, 	"Dokument gedruckt mit folgender Anzahl von Seiten:"
+3225, 	"Jän"
+3226, 	"Feb"
+3227, 	"Mär"
+3228, 	"Apr"
+3229, 	"Mai"
+3230, 	"Jun"
+3231, 	"Jul"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3232, 	"Aug"
+3233, 	"Sep"
+3234, 	"Okt"
+3235, 	"Nov"
+3236, 	"Dez"
+3237, 	"So"
+3238, 	"Mo"
+3239, 	"Di"
+3240, 	"Mi"
+3241, 	"Do"
+3242, 	"Fr"
+3243, 	"Sa"
+3244, 	"Bitte warten..."
+3245, 	"Konto wird erstellt"
+3246, 	"Wenn Sie ein eventuelles Restguthaben zu einem späteren Zeitpunkt weiter verwenden wollen, geben Sie bitte einen Benutzernamen und ein Passwort an und klicken auf den Button - Fortsetzen - , wenn nicht, dann klicken Sie auf den Button - Abbrechen - "
+3247, 	"Benutzername:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3248, 	"Bitte wiederholen Sie Ihre Passworteingabe:"
+3249, 	"Mindestens vier (4) Zeichen lang."
+3250, 	"Abbrechen"
+3251, 	"Verbinden..."
+3252, 	"Passwort wird überprüft..."
+3253, 	"Getrennt"
+3254, 	"File auswählen"
+3255, 	"File Name:"
+3256, 	"Legen Sie die Diskette in eines der verfügbaren Laufwerke ein und klicken Sie auf das Zeichen dieses Laufwerks."
+3257, 	"Öffnen"
+3258, 	"Speichern"
+3259, 	"File anhängen"
+3260, 	"Ok"
+3261, 	"Ja"
+3262, 	"Nein"
+3263, 	"Windows Messenger muß installiert werden"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3264, 	"Anwendung fehlgeschlagen."
+3265, 	"Sie müssen jemanden zum Chatten auswählen."
+3266, 	"Verbunden"
+3267, 	"Start Chat"
+3268, 	"Schliessen"
+3269, 	"Leider sind auf diesem PC keine Laufwerke erlaubt."
+3270, 	"Nachricht wird gesendet..."
+3271, 	"SMTP Server nicht angegeben."
+3272, 	"Sie müssen zumindest einen Empfänger und eine gültige Antwort Adresse angeben..."
+3273, 	"Problem beim Übertragen Ihrer Nachrichten.."
+3274, 	"Ihre Nachricht wurde gesendet."
+3275, 	"Ihr Name:"
+3276, 	"Ihre e-mail Adresse:"
+3277, 	"An:"
+3278, 	"CC:"
+3279, 	"Betreff:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3280, 	"Senden"
+3281, 	"Sie müssen mindestens ein Bild auswählen."
+3282, 	"Alle auswählen"
+3283, 	"Alle löschen"
+3284, 	"Ausgewählte Bilder senden"
+3285, 	"Stop"
+3287, 	"Benötigte Informationen:"
+3288, 	"Vorname:"
+3289, 	"Nachname:"
+3290, 	"Hausnummer:"
+3291, 	"Postleitzahl:"
+3292, 	"pro Minute"
+3293, 	"pro Seite"
+3294, 	"Betrag erwerben:"
+3295, 	"Email Empfänger"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3296, 	"Konto Informationen"
+3297, 	"Bisherige"
+3298, 	"Betrag erhalten:"
+3299, 	"Kauf"
+3300, 	"Empfangen"
+3301, 	"Extra"
+3302, 	"Geben Sie das Passwort ein um den Reboot zu verhindern."
+3303, 	"Dieser PC startet neu in "
+3306, 	"Lizenz #:"
+3307, 	"Sie müssen den PC neu starten bevor Sie die Lizenz registrieren können"
+3308, 	"Freier Zugang mit Timer"
+3309, 	"Freier Zugang ohne Timer"
+3310, 	"Prepaid Minuten und Seiten"
+3311, 	"Prepaid Minuten (Drucken wird wie Minuten verrechnet)"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3312, 	"Prepaid Betrag"
+3313, 	"Betrag für Zeit/Drucken verwendet (Anzeigen von Min/Seiten)"
+3314, 	"Betrag für Zeit/Drucken verwendet (Anzeigen von Min/Seiten/Betrag)"
+3315, 	"Cyber Cafe"
+3316, 	"Lautstärke:"
+3317, 	"Maximum:"
+3318, 	"Standard:"
+3319, 	"Drucker"
+3320, 	"Verfügbar"
+3322, 	"Speichern"
+3323, 	"Derzeit:"
+3324, 	"Vorher:"
+3325, 	"Abgerechnet Durch:"
+3326, 	"Durch:"
+3327, 	"Abfrage"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3328, 	"Abrechnung"
+3329, 	"Abfragen"
+3330, 	"Reboot in Secure Mode"
+3331, 	"Reboot zum Desktop"
+3332, 	"Herunterfahren"
+3333, 	"Zum Desktop"
+3334, 	"Zurück zum Kiosk"
+3335, 	"Lizenz freischalten"
+3336, 	"Lade Konfiguration ..."
+3337, 	"Dieses Laufwerk ist für die Benutzer nicht erlaubt"
+3338, 	"Kein gültiges Verzeichniss..."
+3339, 	"Ein Problem beim Speichern Ihres Dokumentes ist aufgetreten:"
+3340, 	"Dokument nicht gespeichert.  Jetzt speichern?"
+3341, 	"Speichern als"
+3342, 	"Drucken"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3346, 	"Aufnahme beendet!"
+3347, 	"Audio nicht verfügbar."
+3348, 	"Aufnehmen"
+3349, 	"Abspielen"
+3350, 	"Bild machen"
+3351, 	"Senden"
+3357, 	"Sekunden die Sie ihr Video abspielen oder wieder aufnehmen können"
+3358, 	"Positionieren Sie sich vor der Kamera"
+3359, 	"Klicken Sie auf Aufnehmen um Ihr Video aufzuzeichnen"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3360, 	"Klicken Sie auf Senden um das Video abzusenden"
+3362, 	"Positionieren Sie sich vor der Kamera um ein Bild aufzunehmen"
+3365, 	"Postkarte auswählen"
+3367, 	"Ort:"
+3368, 	"Los"
+3369, 	"Anfang"
+3370, 	"Zurück"
+3371, 	"Vor"
+3372, 	"Aktualisieren"
+3373, 	"Schriftgrösse"
+3374, 	"Suche"
+3375, 	"Neues Fenster"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3376, 	"Klicken Sie hier um wieder in das Hauptmenü zurüch zu kommen"
+3377, 	"Sie haben nicht genug Guthaben um das Dokument ganz aus zu drucken"
+3378, 	"Diese Seite ist nicht erlaubt."
+3379, 	"Diese File gibt es nicht..."
+3380, 	"Dieses Laufwerk ist nicht verfügbar..."
+3381, 	"bereits vorhanden, ersetzen?"
+3382, 	"Wollen Sie wirklich aufhören ?"
+3383, 	"Codecs nicht vorhanden"
+3384, 	"Keine Video Kamera gefunden"
+3385, 	"Preis pro Minute: "
+3386, 	"Preis pro Seite: "
+3387, 	"Minimum Kreditkarten Zahlung: "
+3388, 	"Minimum Barzahlung: "
+3389, 	"Sind Sie sicher das Sie in den Secure Mode rebooten wollen?"
+3390, 	"Sind Sie sicher das Sie die Lizenz freischalten wollen?"
+3391, 	"Ihr Computer wird herunter gefahren. Fortsetzen ?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3392, 	"Ihr Computer wird jetzt rebooten. Fortsetzen ?"
+3393, 	"Sie haben nicht genug Guthaben um diese E-mail zu senden , trotzdem fortsetzen ?"
+3394, 	"Oben:"
+3395, 	"Links:"
+3396, 	"Breite:"
+3397, 	"Höhe:"
+3398, 	"Kopieren"
+3399, 	"Einfügen"
+3400, 	"Ausschneiden"
+3401, 	"Keine Änderung"
+3402, 	"Max. Verkleinern "
+3403, 	"Max. Vergrößern"
+3404, 	"Linke Seite "
+3405, 	"Zentrum"
+3406, 	"Rechte Seite"
+3407, 	"Gleichmäßig verteilen"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3408, 	"Oben"
+3409, 	"Unten"
+3410, 	"Vielen Dank"
+3411, 	"Die 'Daten' die Sie hier speichern werden nach dem Abmelden gelöscht"
+3412, 	"Wiederherstellungspunkte"
+3413, 	"Wiederherstellen"
+3414, 	"Dies wird Ihre derzeitige Konfiguration überschreiben. Fortsetzen?"
+3415, 	"Dies wird Ihren derzeitigen Wiederherstellungspunkt überschreiben. Fortsetzen?"
+3416, 	"Dadurch entstehen Änderungen in der Datenbank - weitermachen?"
+3417, 	"Benutzername bereits verwendet"
+3418, 	"Gruppe von 12 Bildern ansehen - jede Gruppe benötigt ein gesondertes e-mail. Klicken Sie auf ein Bild um es an oder abzuwählen"
+3419, 	"Alle ausgewählten Photos werden auf 640x480 Pixel komprimiert, mit 32K im JPEG Format"
+3423, 	"Konto Erstellung überspringen"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_CAN
+{
+3424, 	"Diese Nachricht wurde noch nicht gesendet und geht verloren.Fortsetzen ?"
+3425, 	"Offline erscheinen"
+3426, 	"Postkarten versenden"
+3427, 	"Wiederherstellungspunkt erstellt"
+3428, 	"Neue Konfiguration gespeichert."
+3429, 	"Die folgende Registriernummer ist jetzt verfügbar:"
+3430, 	"Seiten gedruckt:"
+3431, 	"Zeit werden von Ihrem Kontostand für jede ausgedruckte Seite abgezogen. Fortsetzen ?"
+3432, 	"Drucken"
+3433, 	"Rechtschreibprüfung"
+3434, 	"Seiten die nicht gedruckt wurden. Leisten Sie eine Zahlung bitte"
+3435, 	"Sicherheits Code"
+3436, 	"Der Druck an diesem Terminal ist nicht möglich"
+3437, 	"Treffen Sie eine Auswahl:"
+3438, 	"Preis pro Kopie:"
+3439, 	"Preis pro Telefax:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3440, 	"Kopie"
+3441, 	"Telefax"
+3442, 	"Kopien vorgewählt für den MFP:"
+3443, 	"Telefax vorgewählt für den MFP:"
+3444, 	"Sie können von diesem Terminal keine emails versenden."
+3445, 	"Machen Sie bitte Ihre Kopien/Faxe jetzt. Klicken Sie an O.K., wenn Sie fertig sind."
+3446, 	"Kontaktieren Sie bitte den Kundendienst, um Ihre Kopie/Fax Lizenz zu aktivieren"
+3447, 	"Verbinde zum Karten Service..."
+3448, 	"Transaktion genehmigt"
+3449, 	"Transaktion abgelehnt"
+3450, 	"BARGELD Abrechnung Details\n"
+3451, 	"Kiosk IDENTIFIKATION:\n"
+3452, 	"Station Name:"
+3453, 	"Datum:"
+3454, 	"Zeit:"
+3455, 	"Name Des Technikers:"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3456, 	"In der Datenbank vorhandener Barbetrag:"
+3457, 	"Vom Techniker abgerechneter Barbetrag:"
+3458, 	"Problem beim senden der BARGELD Abrechnung Details per email"
+3459, 	"Stellen Sie bitte sicher, daß das Multifunktionsgerät online ist und genug Papier und Verbrauchsmaterial hat."
+3460, 	"Datei Download"
+3461, 	"Datei:"
+3462, 	"Fortschritt:"
+3463, 	"Mochten Sie diese Datei öffnen oder speichern?"
+3464, 	"Die Änderungen, die an den Einstellungen dieses Kiosks vorgenommen werden, erfordern einen Neustart. Ohne Neustart kann es zu Problemen im Betrieb kommen. Änderungen speichern und neu starten?\n"
+3465, 	"Nur eine Kopie pro Druckjob ist erlaubt. Wenn Sie zusätzliche Kopien drucken möchten, betätigen Sie die Drucktaste erneut."
+3466, 	"Sie versuchen, eine pdf Datei von einer sicheren Web site zu öffnen. Möglicherweise wird diese Datei nicht korrekt angezeigt !"
+3467, 	"Drucker nicht gefunden. Informieren Sie den Administrator !"
+3468, 	"hi-Zone Wi-Fi "
+3469, 	"MSN Messenger versucht momentan, eine vorhergehende Sitzung zu beenden. Bitte warten Sie 30 Sekunden und versuchen Sie es noch einmal."
+3470, 	"Kann die nötige Information nicht erhalten."
+3471, 	"Geben Sie bitte eine gültige email Adresse an."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3472, 	"Wählen Sie Ihr gewünschtes Zugangs Paket aus"
+3473, 	"Weiter"
+3474, 	"Wenn Sie mit Bargeld und Kreditkarte bezahlen möchten: Dann Bargeld zuerst"
+3475, 	"Für den WIFI Zugang füllen Sie bitte die Details unten aus"
+3476, 	"Voller Name"
+3477, 	"Email"
+3478, 	"Geheime Frage"
+3479, 	"Antwort"
+3480, 	"Ihre geheime Frage und Antwort werden im Falle verwendet, wenn Sie Ihren Benutzernamen oder Kennwort vergessen sollten."
+3481, 	"Zahlung"
+3482, 	"Bitte Bargeld einzahlen Und/oder Ihre Kreditkarte jetzt durchziehen"
+3483, 	"Gesamtbetrag"
+3484, 	"Guthaben"
+3485, 	"Restbetrag"
+3486, 	"Füllen Sie bitte alle Felder aus und stellen Sie sicher daß Ihr Benutzername und Kennwort mindestens 8 Buchstaben lang sind."
+3487, 	"Dieses Benutzername ist schon in Verwendung. Wählen Sie bitte einen anderen!"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3488, 	"Datenbankzugriff nicht möglich. Bitte versuchen Sie es nochmals."
+3489, 	"Transaktion war erfolgreich. Sie können sich jetzt mit Ihrem Benutzernamen und Kennwort einloggen."
+3490, 	"Eine Kopie der Rechnung an meine email Adresse senden"
+3491, 	"Kreditkarten Informationen"
+3492, 	"Sind Sie sicher das Sie abbrechen wollen? Bereits geleistete Barzahlungen können nicht rückerstattet werden."
+3493, 	"ACHTUNG: Steuern nicht enthalten."
+3494, 	"Dieses Paket ist zur Zeit nicht verfügbar. Wählen Sie bitte ein anderes aus."
+3495, 	"Sie müssen ein Paket von oben auswählen, um fortzufahren zu können."
+3496, 	"hi-Zone Wi-Fi Erwerb Informationen"
+3497, 	"Danke das Sie hi-Zone Wi-Fi verwenden! Ihre Rechnung für Ihre Unterlagen liegt bei , wie verlangt."
+3498, 	"Transaktion #:"
+3499, 	"Ein Problem beim Erstellen Ihres Kontos ist aufgetreten. Kontaktieren Sie den Kundendienst um die Transaktion abzuschliessen."
+3500, 	"Ihr Benutzername ist unzulässig. Er muß nur aus Buchstaben und Zahlen bestehen und muss minimum acht Stellen lang sein."
+3501, 	"Dieser Kiosk nimmt kein Bargeld"
+3502, 	"Dieser Kiosk nimmt keine Kredit Karten"
+3503, 	"Paket nicht verfügbar. Dieser Kiosk bietet keine Bargeld oder Kreditkartenzahlung an."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3504, 	"Tragen Sie Ihre vollen Vor und Nachnamen ein"
+3505, 	"Tragen Sie Ihre email Adresse ein"
+3506, 	"Tragen Sie Ihren gewünschten Benutzernamen ein. Mindestens 8 Zeichen !"
+3507, 	"Tragen Sie Ihr gewünschtes Kennwort ein. Mindestens 8 Zeichen !"
+3508, 	"Tragen Sie Ihre geheime Frage hier ein"
+3509, 	"Tragen Sie die Antwort zu Ihrer geheimen Frage hier ein"
+3510, 	"Sie müssen diese Session beenden bevor Sie weiter machen können !"
+3511, 	"Ihre Bargeld Werte sind"
+3512, 	"Haben Sie Ihr(e) Dokument(e) fertig gescannt ?"
+3513, 	"Das gescannte Dokument konnte nicht gefunden werden. Bitte erneut scannen !"
+3514, 	"Das gescannte Dokument konnte nicht gefunden werden. Klicken Sie bitte auf den Knopf Datei scannen, um Ihre Dokumente wieder einzuscannen."
+3515, 	"Ungültige Telefax Nummer."
+3516, 	"Die Telefax Nummer die Sie angegeben haben ist in einem ungültigen Format. Tragen Sie bitte Ihre Telefax Nummer im folgenden Format nochmals ein: 16132484867."
+3517, 	"Tragen Sie bitte den Titel für das Deckblatt ein."
+3518, 	"Leider konnte Ihr Sendung nicht verarbeitet werden. Die Gegenstation ist besetzt, bitte versuchen Sie Ihr Telefax noch einmal zu senden. ES WIRD NICHTS DAFÜR VERRECHNET !"
+3519, 	"Die Gegenstation ist besetzt , bitte warten !"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3520, 	"Bitte warten bis die Verbindung hergestellt wird."
+3521, 	"Sendung abgebrochen ."
+3522, 	"Die Transaktion kann nicht gefunden werden , entweder ist diese nicht vorhanden oder wurde bereits durchgeführt. Überprüfen Sie den Sendungsverlauf um zu sehen, wann das Telefax durchgeführt wird. Wenn das Telefax NICHT im Sendungsverlauf ist, dann gibt es die Sendungs ID nicht."
+3523, 	"Leider konnte Ihre Karte nicht verarbeitet werden. Die Faxübertragung wurde abgebrochen."
+3524, 	"Bitte warten Sie , Ihre Karte wird bearbeitet."
+3525, 	"Sie können mehr Zeit kaufen und Ihr Telefax nochmals zu senden."
+3526, 	"Sie verfügen über ein Guthaben zum senden von"
+3527, 	"Seiten, aber Ihr Telefaxdokument enthält"
+3528, 	"Seiten. Ihre Übermittlung wurde abgebrochen."
+3529, 	"Bereite Übermittlung vor ...."
+3530, 	"Das Telefax enthält"
+3531, 	"Seite(n)."
+3532, 	"wird von Ihrer Karte abgebucht. Weiter mit der Übertragung und abbuchen der Kreditkarte?"
+3533, 	"Sammle Informationen über Ihr Telefax"
+3534, 	"Verarbeitung Ihres Telefaxdokumentes"
+3535, 	"Ihr Telefax ist zur Gegenstation übermittelt worden. Wenn Sie eiene gültige E-mail Adresse angegeben haben, erhalten Sie eine E-mail, die die Übermittlung Ihres Telefaxdokumentes bestätigt."
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3536, 	"Bitte warten , Ihr Fax wird gesendet."
+3537, 	"Ihr Telefax an"
+3538, 	"wurde erfolgreich durchgeführt."
+3539, 	"In Bearbeitung."
+3540, 	"Verbinden......"
+3541, 	"Warten Sie bitte, während Ihr Telefaxdokument überprüft wird. Abhängig von der Zahl Seiten, die Sie sie faxen, kann es wenige Minuten dauern."
+3542, 	"Warten Sie bitte, während die Seiten in Ihrem Telefaxdokument gezählt werden."
+3543, 	"Anzahl der Seiten kann nicht ermittelt werden, bitte Versuchen Sie es noch einmal."
+3544, 	"Leider ist die Gegensatation besetzt. Bitte Versuchen Sie es noch einmal."
+3545, 	"Lite"
+3546, 	"Enterprise"
+3547, 	"Professional"
+3548, 	"Nicht registriert"
+3549, 	"Warten Sie bitte, während Ihr Auftrag verarbeitet wird."
+3550, 	"Error!!! Kann Datei nicht finden."
+3551, 	"zusätzliche"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3552, 	"Aufladung"
+3553, 	"IHR TELEFAX STATUS:"
+3554, 	"Ihr Telefax zu"
+3555, 	"wurde"
+3556, 	"erfolgreich durchgeführt"
+3557, 	"Kopie und Telefax Option wurden vom Adminstrator deaktiviert."
+3558, 	"Vom Kiosk gemeldeter Barbetrag:"
+3559, 	"Passagier Name nicht gefunden"
+3560, 	"Sie müssen sich von dieser Session zuerst abmelden, um Ihre drahtlosen Zugangsinformationen zu erhalten\n"
+3561, 	"Bitte ziehen Sie Ihre Passagierkarte durch , um Ihre drahtlosen Kontoinformationen zu erhalten.\n"
+3562, 	"Drahtlose Konto-Informationen:"
+3563, 	"Benutzername:"
+3564, 	"Kennwort:"
+3565, 	"Notieren Sie bitte Ihren Benutzernamen und Kennwort."
+3566, 	"Kartennummer"
+3567, 	"Ablaufdatum"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3568, 	"Auswahl"
+3569, 	"Freier Zugang mit Bericht (Zeit limitiert)"
+3570, 	"Freier Zugang mit Bericht (unbegrenzte Zeit)"
+3571, 	"Von Windows abmelden"
+3572, 	"Sie müssen als Administrator angemeldet sein"
+3573, 	"Unzulässiger Zahlungs Modus"
+3574, 	"Kopiermaschine"
+3575, 	"Wählen Sie bitte S/W oder Farbe und die Anzahl der Seiten aus, die Sie kaufen möchten. Betätigen Sie dann den Kauf."
+3576, 	"Kaufen Sie diese Anzahl der Seiten:"
+3577, 	"Preis pro S/W Seite:"
+3578, 	"Preis pro Farbe Seite:"
+3579, 	"Gesamtsumme:"
+3580, 	"Ende"
+3581, 	"Papierquelle"
+3582, 	"Dokument Zufuhr"
+3583, 	"Glas"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3584, 	"Admin Zugang"
+3585, 	"Begrenzter Zugang"
+3586, 	"ShellPro muß auf einem lokalen Laufwerk laufen."
+3587, 	"Preis Pro S/W Kopie"
+3588, 	"Preis Pro Farbe Kopie"
+3589, 	"Preis Pro Telefax"
+3590, 	"Seiten Guthaben zu gering.  Leisten Sie eine Zahlung bitte"
+3591, 	"Benutzer Konto Steuerung muss deaktiviert sein. Weiter?"
+3592, 	"Drucken\n"
+3593, 	"Drucker\n"
+3594, 	"Name\n"
+3595, 	"Wo\n"
+3596, 	"Treiber\n"
+3597, 	"Version\n"
+3598, 	"Anmerkung\n"
+3599, 	"Druckbereich\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3600, 	"Alle\n"
+3601, 	"Seiten\n"
+3602, 	"Von\n"
+3603, 	"Bis\n"
+3604, 	"Kopien\n"
+3605, 	"Anzahl der Kopien\n"
+3606, 	"Sortieren\n\n"
+3607, 	"Papier\n"
+3608, 	"Größe\n"
+3609, 	"Quelle\n"
+3610, 	"Ausrichtung\n"
+3611, 	"Hochformat \n\n"
+3612, 	"Querformat \n"
+3613, 	"Löschen\n"
+3614, 	"Vor Autorisiert"
+3615, 	"Alle Browserfenster schliessen ?"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3616, 	"***** KIOSK Neustart *****\n"
+3617, 	"*** Frei ***"
+3618, 	"Minimum gekauft"
+3619, 	"Legen Sie bitte die Originale, auf die automatische Zufuhr mit dem Gesicht NACH OBEN , dann geben Sie je die Zahl der Originalseiten und Kopien ein, die Sie kaufen möchten. Betätigen Sie den Kauf, wenn sie fertig sind ."
+3620, 	"Anzahl der Originale:"
+3621, 	"Anzahl der Kopien:"
+3622, 	"Dateienmanager"
+3623, 	"Dateien die hier gespeichert wurden , werden beim Abmelden gelöscht. Linke Maustaste gedrückt um Dateien zu verschieben. Steuerung und linke Maustatste gedrückt um Dateien zu kopieren."
+3624, 	"Dieses Dateiformat wird NICHT unterstützt.\n"
+3625, 	"Keine Datei ausgewählt.\n"
+3626, 	"Die erforderliche Anwendung ist nicht installiert."
+3627, 	"Diese Version kann XLSX Dateien nicht öffnen."
+3628, 	"Diese Version kann DOCX Dateien nicht öffnen."
+3629, 	"Büro Service"
+3630, 	"Erstellen Sie Kopien \n"
+3631, 	"Scannen an eMail\n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3632, 	"Scan zu Telefax\n"
+3633, 	"Scan zu USB \n"
+3634, 	"Druck von USB \n"
+3635, 	"Wiederholen\n"
+3636, 	"3. ANFANG \n"
+3637, 	"4. Kauf \n"
+3638, 	"Erweitert…\n"
+3639, 	"1. SERVICE auswählen\n"
+3640, 	"2. EINSTELLUNGEN \n"
+3641, 	"Preise:\n"
+3642, 	"4. Autorisieren Sie den Kauf \n"
+3643, 	"Vorschau:\n"
+3644, 	"Ganze Seite:\n"
+3645, 	"In Bearbeitung , bitte warten \n"
+3646, 	"Kopien\n"
+3647, 	"EMail \n"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3648, 	"Telefax\n"
+3649, 	"USB\n"
+3650, 	"Drucken\n"
+3651, 	"Drucken:\n"
+3652, 	"Kopie:\n"
+3653, 	"Scannen:\n\n"
+3654, 	"Telefax:"
+3655, 	"Seiten Größe:"
+3656, 	"# Kopien:"
+3657, 	"Email Adresse:"
+3658, 	"Telefax #:"
+3659, 	"USb Laufwerk \\ Dateiname "
+3660, 	"# Originale:"
+3661, 	"Preis pro Seite:"
+3662, 	"Gesamtsumme:"
+3663, 	"Überprüfen Sie und dann autorisieren den Kauf, Wiederholen oder Abbrechen"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3665, 	"Auflösung:"
+3666, 	"Überprüfen sie die gescannten Bilder , klicken Sie den Knopf Kauf bestätigen an, um den Service abzuschließen.\n"
+3667, 	"Klicken Sie den Knopf Reset Session , um diese Bilder zu verwerfen und beginnen Sie von Neuem\n"
+3668, 	"Klicken Sie den nahen Knopf an, um die Büro-Service-Anwendung zu schließen.\n"
+3669, 	"Dieses löscht alle Einstellungen. Weiter?\n"
+3670, 	"Legen Sie Ihr Dokument in die Scanner Dokumentenzufuhr mit dem Gesicht nach oben. Weiter?"
+3671, 	"Dies schliesst den Service ab und der Gesamtpreis wird verrechnet. Weiter?"
+3672, 	"Service abgeschlossen!"
+3673, 	"EMail Telefaxreport an mich senden"
+3674, 	"Adresse:"
+3675, 	"Nicht imstande, die gescannten Seiten für Ihr Telefax zu verarbeiten. Bitte scannen Sie das Dokument erneut."
+3676, 	"Ein Problem beim Übermitteln Ihres Dokuments ist aufgetreten. Versuchen Sie es bitte noch einmal."
+3677, 	"4. AUTORISIEREN Sie DEN KAUF - Kopieren"
+3678, 	"4. AUTORISIEREN Sie DEN KAUF - Scan zu eMail\n"
+3679, 	"4. AUTORISIEREN SIE DEN KAUF - TELEFAX"
+}
+
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3680, 	"4. AUTORISIEREN Sie DEN KAUF - Scan zu USB "
+3681, 	"Format"
+3682, 	"Unzulässige Dateiendung."
+3683, 	"Ein Problem beim kopieren der Datei ist aufgetreten. Versuchen Sie bitte noch einmal."
+3684, 	"Beginn der Verarbeitung . Weiter?"
+3685, 	"Scannen wurde vom Benutzer abgebrochen. Klicken Sie auf Reset um neu zu beginnen."
+3686, 	"4. AUTORISIEREN Sie DEN KAUF - Druck von USB"
+3687, 	"Ein Problem beim Drucken der Datei ist aufgetreten , versuchen Sie bitte noch einmal."
+3688, 	"Ihr Guthaben ist zu gering um diesen Kauf abzuschließen. "
+3689, 	"Annehmen?"
+3690, 	"Seiten benötigt: "
+3691, 	"Preis:"
+3692, 	"Drucken:"
+3693, 	"Raum #:"
+3694, 	"Naher Browser?"
+3695,   "Geben Sie Zugangkennziffer ein, um das vorhandene Balance oder Klicken-Löschen auf Ausgang zu erhöhen"
+}
+
+STRINGTABLE
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+{
+3696, 	"Kombination Benutzer ID/Gültigkeit nicht richtig..."
+3697, 	"Dieser Benutzercode konnte nicht gefunden werden."
+3698,   "hat keine vorhandene Balance."
+3699,   "Diese Zugangkennziffer ist z.Z. gebräuchlich!"
+3700,   "Drehen Sie 90°"
+3701,   "Foto Viewer"
+3702,   "Vorbetrachtung"
+3703,   "Störung, die Druck-Vorbetrachtung anzeigt"
+3704, 	"Seiten Guthaben zu gering."
+3705,   "Kennwort ist unzulässig"
+3706,   "Tragen Sie Kennwort ein"
+3707, 	"Seiten die nicht gedruckt wurden."
+3708,   "Gibt es eine oder mehrere Druckaufträge in der Warteschlange. Beenden können sie jetzt löschen."
+3709,   "Web-Browser-Popup"
+3710,   "Diese Anwendung erfordert Zugriff auf Premium-Ebene."
+3711,   "Free Printing darf nicht auf "
+3712,   "Versuchen Sie es erneut, und wählen Sie"
+3713,   "This application is not allowed in a Basic Usage session.  Start a Premium Usage session to run that application."
+}
